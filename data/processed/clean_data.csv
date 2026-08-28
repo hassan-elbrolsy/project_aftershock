@@ -1,0 +1,885 @@
+event_id,mag,depth_km,longitude,latitude,felt,cdi,mmi,alert,gap,dmin,nst,sig,tsunami,distance_prefix,region,depth_category,pct_of_great_threshold,significant,station_network,local_claims_filed,scaled_mag
+pr71436898,3.31,10.53,-68.1516666666667,19.143,0,0.0,0.0,none,282.0,0.6618,7,169,0,67 km NNE,"Punta Cana, Dominican Republic",shallow,41.38,0,SCEDC-01,14,0.162
+us7000lxkj,2.7,10,-163.5738,53.4311,0,0.0,0.0,none,228.0,1.22,24,112,0,158 km S,"False Pass, Alaska",shallow,33.75,0,PNSN-07,1,0.04
+us7000lxkq,2.6,10,-163.5298,53.4472,0,0.0,0.0,none,228.0,1.262,23,104,0,156 km S,"False Pass, Alaska",shallow,32.5,0,PNSN-07,6,0.02
+us6000m3na,4.2,42.808,-91.4408,13.4905,0,0.0,0.0,none,155.0,1.382,52,271,0,77 km SSW,"La Gomera, Guatemala",shallow,52.5,0,CEA-12,11,0.34
+ak024ni4ohz,3.4,107.4,-151.3119,62.926,0,1.0,2.988,green,103.0,1.382,31,178,0,55 km NNW,"Petersville, Alaska",intermediate,42.5,0,PNSN-07,14,0.18
+us6000m3n4,4.3,64.575,-91.2772,13.6209,0,0.0,0.0,none,94.0,1.18,68,284,0,56 km SSW,"La Gomera, Guatemala",shallow,53.75,0,PNSN-07,6,0.36
+pr71436878,2.61,8.16,-66.2801666666667,17.9466666666667,0,0.0,0.0,none,176.0,0.0926,17,105,0,3 km SSE,"Salinas, Puerto Rico",shallow,32.62,0,UNLINKED,0,0.022
+pr2024014001,3.66,16,-64.6975,18.8233,0,0.0,0.0,none,282.0,0.5374,17,206,0,55 km N,"Cruz Bay, U.S. Virgin Islands",shallow,45.75,0,USGS-WEST,0,0.232
+us6000m4rz,4.3,27.169,-25.1107,-58.7149,0,0.0,0.0,none,102.0,7.7,22,284,0,Direct Location,South Sandwich Islands region,shallow,53.75,0,SCEDC-01,5,0.36
+us7000lxkl,2.9,10,-163.5172,53.3771,0,0.0,0.0,none,230.0,1.326,25,129,0,164 km S,"False Pass, Alaska",shallow,36.25,0,PNSN-07,4,0.08
+ci40459743,2.71,7.97,-116.6286667,33.4226667,2,2.7,0.0,none,17.0,0.07517,120,114,0,15 km SSE,"Anza, CA",shallow,33.88,0,USGS-WEST,11,0.042
+ak024nfaf06,2.9,2.7,-141.2423,60.2501,0,0.0,0.0,none,103.0,1.382,31,129,0,115 km NW,"Yakutat, Alaska",shallow,36.25,0,SCEDC-01,13,0.08
+hv73716782,2.75,6.26,-155.134333333333,19.3355,0,0.0,0.0,none,102.0,1.382,33,116,0,14 km S,"Fern Forest, Hawaii",shallow,34.38,0,PNSN-07,2,0.05
+us6000m4ru,4.2,35,-92.1197,13.8374,0,0.0,0.0,none,178.0,1.349,32,271,0,55 km SSW,"Champerico, Guatemala",shallow,52.5,0,USGS-WEST,7,0.34
+tx2024azag,2.8,8.3939,-104.251,31.655,0,0.0,0.0,none,66.0,0.0,45,121,0,57 km NW,"Toyah, Texas",shallow,35.0,0,SCEDC-01,15,0.06
+us6000m4ry,4.4,10,144.9599,18.84,0,0.0,0.0,none,131.0,17.305,25,298,0,Direct Location,"Pagan region, Northern Mariana Islands",shallow,55.0,0,PNSN-07,14,0.38
+us6000m4rt,4.2,187.174,144.8199,13.8856,0,0.0,0.0,none,119.0,0.298,30,271,0,39 km N,"Yigo Village, Guam",intermediate,52.5,0,PNSN-07,15,0.34
+us7000lxkk,3.1,35,-171.213,51.6198,0,0.0,0.0,none,233.0,1.453,14,148,0,215 km ESE,"Atka, Alaska",shallow,38.75,0,PNSN-07,7,0.12
+us6000m3m5,4.9,10,-22.1074,-0.8186,0,0.0,0.0,none,47.0,10.466,49,369,0,Direct Location,central Mid-Atlantic Ridge,shallow,61.25,0,PNSN-07,13,0.48
+ak024nej8xe,2.5,5.4,-155.8132,56.4284,0,0.0,0.0,none,103.0,1.382,31,96,0,115 km WSW,"Akhiok, Alaska",shallow,31.25,0,PNSN-07,3,0.0
+us6000m4rr,4.5,10,-174.6178,-22.9541,0,0.0,0.0,none,130.0,1.857,17,312,0,181 km S,"‘Ohonua, Tonga",shallow,56.25,0,SCEDC-01,10,0.4
+ak024ne3z24,2.7,45.6,-157.2754,56.3079,0,0.0,0.0,none,103.0,1.382,31,112,0,69 km E,"Chignik, Alaska",shallow,33.75,0,SCEDC-01,12,0.04
+us6000m4s1,4.4,35.794,-175.1922,-22.8633,0,0.0,0.0,none,97.0,1.685,20,298,0,170 km S,"‘Ohonua, Tonga",shallow,55.0,0,SCEDC-01,15,0.38
+us7000lxki,3.0,10,-171.181,51.6027,0,0.0,0.0,none,233.0,1.456,14,138,0,217 km SW,"Nikolski, Alaska",shallow,37.5,0,PNSN-07,15,0.1
+us6000m3lx,4.0,92.954,94.5378,24.2812,0,0.0,0.0,none,112.0,3.081,31,246,0,58 km SE,"Wāngjing, India",intermediate,50.0,0,PNSN-07,8,0.3
+ok2024ayso,2.88,6.87,-97.3945,35.66533333,138,4.8,0.0,none,40.0,0.0,81,194,0,6 km W,"Arcadia, Oklahoma",shallow,36.0,0,UNLINKED,0,0.076
+us7000lxkh,3.6,35,-176.8703,51.4339,0,0.0,0.0,none,212.0,0.464,15,199,0,51 km SSW,"Adak, Alaska",shallow,45.0,0,PNSN-07,4,0.22
+us6000m3lk,4.6,521.317,-178.2551,-20.6137,0,0.0,0.0,none,71.0,2.906,52,326,0,Direct Location,Fiji region,deep,57.5,0,UNLINKED,0,0.42
+us6000m3li,4.2,202.58,-67.0862,-24.3273,0,0.0,0.0,none,102.0,1.696,22,271,0,78 km W,"San Antonio de los Cobres, Argentina",intermediate,52.5,0,PNSN-07,2,0.34
+us6000m3lj,4.5,92.124,126.1553,4.8037,0,0.0,0.0,none,84.0,2.323,45,312,0,101 km SE,"Sarangani, Philippines",intermediate,56.25,0,USGS-WEST,7,0.4
+us6000m4rm,4.3,495.718,179.9704,-26.2741,0,0.0,0.0,none,90.0,3.514,32,284,0,south,the Fiji Islands,deep,53.75,0,UNLINKED,0,0.36
+us6000m3le,4.5,537.312,-63.7278,-22.018,0,0.0,0.0,none,60.0,3.443,42,312,0,5 km W,"Yacuiba, Bolivia",deep,56.25,0,SCEDC-01,11,0.4
+us6000m3ld,4.5,499.597,-177.7007,-20.3239,0,0.0,0.0,none,69.0,2.484,143,312,0,266 km WNW,"Houma, Tonga",deep,56.25,0,UNLINKED,0,0.4
+us6000m3lc,4.1,369.746,138.0997,32.2558,0,0.0,0.0,none,85.0,1.66,49,259,0,255 km ESE,"Kushimoto, Japan",deep,51.25,0,CEA-12,15,0.32
+us6000m4rh,4.4,18.107,128.5507,-8.4555,0,0.0,0.0,none,84.0,4.423,24,298,0,171 km E,"Lospalos, Timor Leste",shallow,55.0,0,PNSN-07,11,0.38
+us7000lx4t,4.0,8.923,-95.1903,16.0484,0,0.0,0.0,none,140.0,0.926,32,246,0,14 km S,"Salina Cruz, Mexico",shallow,50.0,0,USGS-WEST,0,0.3
+us6000m4rn,4.2,9.873,140.5813,-54.0088,0,0.0,0.0,none,157.0,19.105,12,271,0,west,Macquarie Island,shallow,52.5,0,PNSN-07,0,0.34
+us6000m3la,4.9,10,-27.1332,38.6954,3,5.4,0.0,none,81.0,1.572,84,371,0,4 km W,"Fonte Bastardo, Portugal",shallow,61.25,0,SCEDC-01,12,0.48
+us6000m4rf,4.5,10,177.7366,-16.3095,0,0.0,0.0,none,150.0,1.459,16,312,0,135 km N,"Ba, Fiji",shallow,56.25,0,SCEDC-01,13,0.4
+us6000m4rd,4.4,526.711,179.7649,-25.4818,0,0.0,0.0,none,136.0,4.291,27,298,0,south,the Fiji Islands,deep,55.0,0,CEA-12,12,0.38
+us6000m4re,4.2,10,168.9004,-20.5087,0,0.0,0.0,none,203.0,2.493,15,271,0,114 km SSW,"Isangel, Vanuatu",shallow,52.5,0,USGS-WEST,7,0.34
+us7000lxfb,2.7,61.3,-162.5849,54.6614,0,0.0,0.0,none,192.0,0.345,17,112,0,47 km SSW,"King Cove, Alaska",shallow,33.75,0,PNSN-07,10,0.04
+us6000m4rc,4.3,9.332,-78.798,61.4739,0,0.0,0.0,none,71.0,5.254,32,284,0,184 km WSW,"Salluit, Canada",shallow,53.75,0,PNSN-07,6,0.36
+us6000m4rb,4.1,607.632,-178.3302,-17.895,0,0.0,0.0,none,80.0,4.393,29,259,0,249 km E,"Levuka, Fiji",deep,51.25,0,USGS-WEST,12,0.32
+us7000lx4s,4.0,26.443,-96.7285,15.8048,0,0.0,0.0,none,192.0,0.446,29,246,0,1 km SSW,"San Francisco Cozoaltepec, Mexico",shallow,50.0,0,UNLINKED,0,0.3
+us6000m4ra,4.1,126.635,127.3932,1.7303,0,0.0,0.0,none,128.0,0.952,13,259,0,68 km W,"Tobelo, Indonesia",intermediate,51.25,0,USGS-WEST,1,0.32
+us6000m4r9,3.7,10,175.4304,51.5234,0,0.0,0.0,none,225.0,1.46,28,211,0,212 km SE,"Attu Station, Alaska",shallow,46.25,0,UNLINKED,0,0.24
+pr71436843,2.64,7.2,-66.8371666666667,17.9238333333333,0,0.0,0.0,none,187.0,0.06481,21,107,0,8 km SSW,"Indios, Puerto Rico",shallow,33.0,0,PNSN-07,8,0.028
+us6000m4rk,4.1,10,129.6584,-26.9549,0,0.0,0.0,none,98.0,4.06,15,259,0,231 km SW,"Yulara, Australia",shallow,51.25,0,SCEDC-01,1,0.32
+us6000m4r5,4.4,225.494,151.7546,-4.3259,0,0.0,0.0,none,71.0,0.429,32,298,0,47 km WSW,"Rabaul, Papua New Guinea",intermediate,55.0,0,PNSN-07,10,0.38
+us6000m3kd,5.1,122.296,-68.4615,-21.1059,3,2.0,0.0,none,40.0,0.96,88,401,0,25 km WNW,"Ollagüe, Chile",intermediate,63.75,1,PNSN-07,14,0.52
+us6000m4r4,4.4,48.848,148.8381,44.364,0,0.0,0.0,none,137.0,4.494,39,298,0,122 km SE,"Kuril’sk, Russia",shallow,55.0,0,SCEDC-01,9,0.38
+us6000m3kc,4.8,554.748,-178.2739,-20.2719,0,0.0,0.0,none,72.0,3.009,82,354,0,Direct Location,Fiji region,deep,60.0,0,USGS-WEST,0,0.46
+ak024n5qfug,2.5,64.9,-149.2423,62.8337,0,0.0,0.0,none,103.0,1.382,31,96,0,61 km NE,"Chase, Alaska",shallow,31.25,0,PNSN-07,12,0.0
+us6000m3k7,4.6,48.424,125.9247,-0.3092,0,0.0,0.0,none,93.0,1.798,50,326,0,176 km WNW,"Labuha, Indonesia",shallow,57.5,0,CEA-12,8,0.42
+us6000m3k3,4.5,28.604,19.7687,40.9827,8,3.8,0.0,none,63.0,0.371,87,315,0,7 km NE,"Lushnjë, Albania",shallow,56.25,0,SCEDC-01,15,0.4
+us6000m4q9,3.9,10,-166.9606,52.5397,0,0.0,0.0,none,177.0,1.045,39,234,0,135 km ESE,"Nikolski, Alaska",shallow,48.75,0,USGS-WEST,15,0.28
+us7000lxbu,2.6,110.875,-162.0029,54.9661,0,0.0,0.0,none,183.0,0.185,20,104,0,22 km ESE,"King Cove, Alaska",intermediate,32.5,0,PNSN-07,9,0.02
+us6000m4qb,4.0,37.309,-173.0454,-16.2472,0,0.0,0.0,none,94.0,2.556,15,246,0,86 km ESE,"Hihifo, Tonga",shallow,50.0,0,PNSN-07,1,0.3
+us6000m4q8,3.8,10,-166.9558,52.4213,0,0.0,0.0,none,179.0,1.148,25,222,0,141 km ESE,"Nikolski, Alaska",shallow,47.5,0,USGS-WEST,14,0.26
+us6000m4q7,4.2,243.669,124.4982,1.4591,0,0.0,0.0,none,95.0,2.948,25,271,0,37 km WNW,"Tomohon, Indonesia",intermediate,52.5,0,CEA-12,15,0.34
+ak024luoll3,2.7,14.7,-142.6102,67.0349,0,0.0,0.0,none,103.0,1.382,31,112,0,64 km NE,"Chalkyitsik, Alaska",shallow,33.75,0,CEA-12,0,0.04
+us6000m3jp,4.2,288.42,138.5076,44.6521,0,0.0,0.0,none,52.0,2.977,74,271,0,156 km ESE,"Terney, Russia",intermediate,52.5,0,PNSN-07,4,0.34
+hv73715997,2.63000011,10.8000001907349,-155.294494628906,19.3951663970947,0,0.0,0.0,none,89.0,1.382,15,106,0,8 km SW,"Volcano, Hawaii",shallow,32.88,0,SCEDC-01,15,0.026
+tx2024axij,2.6,8.3167,-103.987,31.639,0,0.0,0.0,none,59.0,0.0,24,104,0,37 km WSW,"Mentone, Texas",shallow,32.5,0,CEA-12,13,0.02
+ak024ls9glb,3.0,16.2,-171.8823,63.0605,0,0.0,0.0,none,103.0,1.382,31,138,0,80 km S,"Gambell, Alaska",shallow,37.5,0,PNSN-07,2,0.1
+us6000m3iy,4.3,51.234,-70.3862,-22.1924,0,0.0,0.0,none,136.0,0.604,22,284,0,22 km WSW,"Tocopilla, Chile",shallow,53.75,0,PNSN-07,1,0.36
+us6000m4q2,4.3,39.433,140.8046,37.041,0,0.0,0.0,none,127.0,2.142,45,284,0,7 km W,"Iwaki, Japan",shallow,53.75,0,PNSN-07,12,0.36
+us6000m4q1,4.5,10,-176.7208,-28.5029,0,0.0,0.0,none,248.0,1.292,14,312,0,Direct Location,Kermadec Islands region,shallow,56.25,0,CEA-12,5,0.4
+us6000m4q0,4.7,10,-173.028,-15.1793,0,0.0,0.0,none,91.0,1.746,20,340,0,118 km NE,"Hihifo, Tonga",shallow,58.75,0,USGS-WEST,5,0.44
+us6000m3ir,4.1,219.305,71.3171,36.3661,0,0.0,0.0,none,107.0,3.13,33,259,0,40 km SSW,"Ashkāsham, Afghanistan",intermediate,51.25,0,UNLINKED,0,0.32
+hv73715842,3.22,30.61,-155.395666666667,19.2635,2,2.2,4.62,none,100.0,1.382,49,160,0,10 km NE,"Pāhala, Hawaii",shallow,40.25,0,CEA-12,0,0.144
+us6000m4q5,4.6,10,114.846,-49.9789,0,0.0,0.0,none,133.0,16.497,17,326,0,Direct Location,western Indian-Antarctic Ridge,shallow,57.5,0,CEA-12,0,0.42
+us6000m3in,4.9,71.476,141.5258,29.4746,0,0.0,0.0,none,67.0,2.44,199,369,0,Direct Location,"Izu Islands, Japan region",intermediate,61.25,0,USGS-WEST,4,0.48
+ak024lqz8yk,2.9,7.4,-171.7342,63.0348,0,0.0,0.0,none,103.0,1.382,31,129,0,82 km S,"Gambell, Alaska",shallow,36.25,0,PNSN-07,1,0.08
+ak024lpw90p,2.8,6.7,-171.2899,63.164,0,0.0,0.0,none,103.0,1.382,31,121,0,71 km SW,"Savoonga, Alaska",shallow,35.0,0,PNSN-07,5,0.06
+ak024lpuxrg,2.8,5.1,-171.1726,63.1899,0,0.0,0.0,none,103.0,1.382,31,121,0,66 km SSW,"Savoonga, Alaska",shallow,35.0,0,CEA-12,2,0.06
+ak024lptp51,3.3,6.3,-171.2917,63.1799,0,0.0,0.0,none,103.0,1.382,31,168,0,70 km SW,"Savoonga, Alaska",shallow,41.25,0,CEA-12,0,0.16
+us6000m4q4,4.1,225.287,-175.5255,-19.3836,0,0.0,0.0,none,131.0,1.802,11,259,0,131 km WNW,"Pangai, Tonga",intermediate,51.25,0,PNSN-07,0,0.32
+ok2024awxp,2.67,6.24,-97.4075,35.67183333,39,4.2,0.0,none,38.0,0.0,95,126,0,6 km ENE,"Edmond, Oklahoma",shallow,33.38,0,UNLINKED,0,0.034
+us6000m4qe,4.0,25.087,96.3526,2.2353,0,0.0,0.0,none,201.0,1.533,15,246,0,27 km S,"Sinabang, Indonesia",shallow,50.0,0,UNLINKED,0,0.3
+us6000m4pz,4.5,10,-174.6927,-22.9567,0,0.0,0.0,none,94.0,1.84,29,312,0,180 km S,"‘Ohonua, Tonga",shallow,56.25,0,SCEDC-01,5,0.4
+us6000m4q3,4.2,10,-24.2929,-59.9704,0,0.0,0.0,none,104.0,8.736,24,271,0,Direct Location,South Sandwich Islands region,shallow,52.5,0,USGS-WEST,9,0.34
+ok2024awva,4.1,6.58,-97.41,35.6715,1735,5.0,4.88,green,39.0,0.0,98,759,0,6 km ENE,"Edmond, Oklahoma",shallow,51.25,0,PNSN-07,0,0.32
+pr2024013001,3.7,21,-68.148,19.0653,0,0.0,0.0,none,260.0,0.5988,16,211,0,59 km NNE,"Punta Cana, Dominican Republic",shallow,46.25,0,PNSN-07,8,0.24
+us6000m4ps,4.4,9.584,124.785,11.8975,0,0.0,0.0,none,105.0,4.861,26,298,0,4 km E,"Tarangnan, Philippines",shallow,55.0,0,PNSN-07,15,0.38
+pr2024013000,3.86,78,-65.8373,18.9055,3,2.0,0.0,none,244.0,0.7635,11,230,0,52 km N,"Suárez, Puerto Rico",intermediate,48.25,0,USGS-WEST,4,0.272
+ok2024awth,2.61,6.62,-97.3915,35.66533333,94,5.8,0.0,none,38.0,0.0,92,159,0,5 km W,"Arcadia, Oklahoma",shallow,32.62,0,USGS-WEST,8,0.022
+us7000lx31,3.0,10,-166.9503,52.4157,0,0.0,0.0,none,251.0,1.154,19,138,0,141 km ESE,"Nikolski, Alaska",shallow,37.5,0,UNLINKED,0,0.1
+us6000m3hb,5.2,49.052,153.6413,-4.5098,0,0.0,0.0,none,80.0,1.507,94,416,0,153 km E,"Kokopo, Papua New Guinea",shallow,65.0,1,PNSN-07,0,0.54
+us6000m4pt,4.2,10,123.8462,-10.3118,0,0.0,0.0,none,96.0,0.691,11,271,0,30 km ESE,"Kupang, Indonesia",shallow,52.5,0,CEA-12,14,0.34
+hv73715562,2.54,10.04,-155.232833333333,18.836,0,0.0,0.0,none,276.0,1.382,26,99,0,44 km SE,"Naalehu, Hawaii",shallow,31.75,0,PNSN-07,5,0.008
+us6000m3h4,4.5,215.291,-66.8197,-23.402,0,0.0,0.0,none,71.0,1.328,35,312,0,103 km NNW,"San Antonio de los Cobres, Argentina",intermediate,56.25,0,PNSN-07,9,0.4
+us6000m3gz,4.5,10.474,144.2772,43.6829,0,0.0,0.0,none,152.0,1.293,29,312,0,20 km E,"Honchō, Japan",shallow,56.25,0,UNLINKED,0,0.4
+us7000lx2z,2.9,35,-175.7646,51.4548,0,0.0,0.0,none,218.0,0.715,12,129,0,76 km SE,"Adak, Alaska",shallow,36.25,0,UNLINKED,0,0.08
+ak024lllo6g,2.8,9.6,-135.5715,56.4181,1,1.0,0.0,none,103.0,1.382,31,121,0,60 km WNW,"Port Alexander, Alaska",shallow,35.0,0,PNSN-07,2,0.06
+us6000m3g6,4.2,62.163,-90.9374,13.8885,1,2.5,0.0,none,182.0,0.769,23,272,0,13 km WSW,"Puerto San José, Guatemala",shallow,52.5,0,USGS-WEST,2,0.34
+ak024ll2lwi,2.6,63,-151.4924,60.0131,2,3.1,0.0,none,103.0,1.382,31,105,0,10 km ESE,"Ninilchik, Alaska",shallow,32.5,0,PNSN-07,7,0.02
+us6000m3fz,4.7,53.308,124.0798,24.4849,0,0.0,0.0,none,69.0,0.176,69,340,0,17 km NNW,"Ishigaki, Japan",shallow,58.75,0,UNLINKED,0,0.44
+us6000m4pp,4.5,10,-30.1916,51.1438,0,0.0,0.0,none,190.0,19.779,34,312,0,Direct Location,northern Mid-Atlantic Ridge,shallow,56.25,0,PNSN-07,12,0.4
+tx2024awgx,2.9,3.6122,-103.066,31.356,1,2.7,0.0,none,61.0,0.0,35,130,0,12 km N,"Coyanosa, Texas",shallow,36.25,0,PNSN-07,5,0.08
+ok2024awgc,2.54,6.58,-97.3925,35.66333333,97,5.6,0.0,none,40.0,0.0,96,154,0,5 km W,"Arcadia, Oklahoma",shallow,31.75,0,CEA-12,7,0.008
+ok2024awfn,4.26,6.71,-97.39816667,35.66583333,3578,5.3,5.502,green,21.0,0.0,96,809,0,6 km W,"Arcadia, Oklahoma",shallow,53.25,0,UNLINKED,0,0.352
+us6000m4qg,4.2,10,22.7629,38.1789,0,0.0,0.0,none,68.0,1.199,35,271,0,16 km NE,"Xylókastro, Greece",shallow,52.5,0,UNLINKED,0,0.34
+ok2024awff,3.16,6.5,-97.3915,35.66566667,791,4.8,0.0,none,39.0,0.0,94,533,0,5 km W,"Arcadia, Oklahoma",shallow,39.5,0,PNSN-07,12,0.132
+us6000m3fc,4.4,10,23.1149,36.1649,0,0.0,0.0,none,112.0,1.392,96,298,0,11 km E,"Kýthira, Greece",shallow,55.0,0,PNSN-07,0,0.38
+us6000m3fa,4.8,584.161,-178.4358,-20.1456,0,0.0,0.0,none,30.0,3.193,91,354,0,Direct Location,Fiji region,deep,60.0,0,USGS-WEST,11,0.46
+us6000m4dx,3.2,10,-65.9881,42.5042,0,0.0,0.0,none,224.0,2.447,16,158,0,148 km S,"Yarmouth, Canada",shallow,40.0,0,SCEDC-01,0,0.14
+us6000m4pn,4.3,10,160.8182,52.3781,0,0.0,0.0,none,122.0,1.469,33,284,0,166 km ESE,"Petropavlovsk-Kamchatsky, Russia",shallow,53.75,0,USGS-WEST,9,0.36
+us6000m3f3,4.3,47.236,-179.0214,51.2297,0,0.0,2.622,none,108.0,1.055,73,284,0,180 km WSW,"Adak, Alaska",shallow,53.75,0,SCEDC-01,13,0.36
+us6000m3f2,4.8,10,-4.0834,71.4443,0,0.0,0.0,none,47.0,5.919,104,354,0,176 km ENE,"Olonkinbyen, Svalbard and Jan Mayen",shallow,60.0,0,USGS-WEST,9,0.46
+us6000m4pm,4.3,10,137.6093,37.6949,0,0.0,0.0,none,101.0,0.618,28,284,0,75 km WSW,"Sado, Japan",shallow,53.75,0,CEA-12,9,0.36
+us6000m3fb,3.1,35,-169.9318,52.3979,0,0.0,0.0,none,216.0,0.41,15,148,0,94 km SW,"Nikolski, Alaska",shallow,38.75,0,SCEDC-01,9,0.12
+pr71436763,3.35,18.06,-67.9385,18.0243333333333,0,0.0,0.0,none,318.0,0.5647,12,173,0,78 km SE,"Punta Cana, Dominican Republic",shallow,41.88,0,UNLINKED,0,0.17
+us6000m4pi,4.6,97.354,166.5714,-11.7672,0,0.0,0.0,none,146.0,6.91,30,326,0,142 km SE,"Lata, Solomon Islands",intermediate,57.5,0,PNSN-07,6,0.42
+us6000m4pg,4.4,10,-173.517,-14.8515,0,0.0,0.0,none,79.0,1.924,17,298,0,125 km NNE,"Hihifo, Tonga",shallow,55.0,0,USGS-WEST,3,0.38
+us6000m3e5,5.4,10,-175.4777,-22.7238,0,0.0,2.656,green,55.0,1.567,54,449,0,162 km SSW,"‘Ohonua, Tonga",shallow,67.5,1,PNSN-07,9,0.58
+us6000m4pc,4.6,80.959,125.1256,5.5013,0,0.0,0.0,none,66.0,1.622,67,326,0,26 km WSW,"Balangonan, Philippines",intermediate,57.5,0,SCEDC-01,8,0.42
+ak024k5x8rr,2.8,11.1,-150.8408,63.5711,0,0.0,0.0,none,103.0,1.382,31,121,0,44 km E,"Denali National Park, Alaska",shallow,35.0,0,PNSN-07,3,0.06
+us6000m4pa,4.4,10,-176.8331,-30.0844,0,0.0,0.0,none,139.0,1.252,14,298,0,Direct Location,Kermadec Islands region,shallow,55.0,0,PNSN-07,3,0.38
+us6000m3d5,4.3,4.805,136.8095,37.1881,1,5.5,0.0,none,44.0,1.289,137,285,0,9 km WSW,"Anamizu, Japan",shallow,53.75,0,USGS-WEST,6,0.36
+us6000m3d1,4.5,617.61,-177.8929,-18.1817,0,0.0,0.0,none,42.0,3.725,66,312,0,295 km E,"Levuka, Fiji",deep,56.25,0,PNSN-07,15,0.4
+ak024k58khk,2.8,23,-156.8278,56.1642,0,0.0,0.0,none,103.0,1.382,31,121,0,98 km E,"Chignik, Alaska",shallow,35.0,0,USGS-WEST,2,0.06
+us6000m4p5,4.6,62.826,126.7873,8.5025,0,0.0,0.0,none,77.0,1.86,53,326,0,51 km ENE,"Hinatuan, Philippines",shallow,57.5,0,PNSN-07,7,0.42
+us6000m4p6,4.2,66.758,126.4269,4.9202,0,0.0,0.0,none,84.0,2.296,31,271,0,119 km ESE,"Sarangani, Philippines",shallow,52.5,0,SCEDC-01,0,0.34
+us7000lxd5,2.6,61.131,-169.8382,52.3701,0,0.0,0.0,none,214.0,0.423,14,104,0,91 km SW,"Nikolski, Alaska",shallow,32.5,0,UNLINKED,0,0.02
+us6000m3ct,4.3,22.599,81.1253,29.522,0,0.0,0.0,none,112.0,4.033,38,284,0,34 km NNE,"Dipayal, Nepal",shallow,53.75,0,USGS-WEST,2,0.36
+us6000m3cp,3.3,5,-112.1413,45.7255,16,4.1,0.0,none,28.0,0.216,73,174,0,16 km SSW,"Whitehall, Montana",shallow,41.25,0,CEA-12,10,0.16
+us6000m4p4,4.4,30.257,149.0288,44.4599,0,0.0,0.0,none,56.0,4.633,97,298,0,124 km SE,"Kuril’sk, Russia",shallow,55.0,0,PNSN-07,12,0.38
+nc73988266,2.96,2.73,-121.319,36.6896667,10,3.1,0.0,none,80.0,0.02836,67,138,0,11 km S,"Tres Pinos, CA",shallow,37.0,0,PNSN-07,15,0.092
+ak024k3zls6,2.7,133.8,-155.1974,58.602,0,0.0,0.0,none,103.0,1.382,31,112,0,85 km E,"King Salmon, Alaska",intermediate,33.75,0,USGS-WEST,9,0.04
+us6000m3cb,4.6,23.974,141.824,32.2783,0,0.0,0.0,none,109.0,1.889,48,326,0,Direct Location,"Izu Islands, Japan region",shallow,57.5,0,CEA-12,11,0.42
+us6000m3c6,4.6,10,-78.9181,-44.3968,0,0.0,0.0,none,151.0,3.923,17,326,0,Off the coast,"Aisen, Chile",shallow,57.5,0,CEA-12,3,0.42
+us6000m3a4,4.5,49.464,93.6907,20.745,0,0.0,0.0,none,157.0,1.235,35,312,0,105 km NE,"Sittwe, Myanmar",shallow,56.25,0,USGS-WEST,9,0.4
+us6000m4p9,4.7,10,-11.7338,-18.5574,0,0.0,0.0,none,80.0,6.277,13,340,0,Direct Location,southern Mid-Atlantic Ridge,shallow,58.75,0,PNSN-07,3,0.44
+us6000m39t,5.3,65.305,-72.6584,-16.9464,4,6.6,0.0,none,99.0,2.624,113,435,0,35 km SW,"Quilca, Peru",shallow,66.25,1,USGS-WEST,14,0.56
+us6000m39s,4.4,404.386,138.5896,30.4991,0,0.0,0.0,none,138.0,5.012,86,298,0,Direct Location,"Izu Islands, Japan region",deep,55.0,0,CEA-12,14,0.38
+us6000m39q,4.1,6.735,136.8342,37.1755,1,1.0,0.0,none,67.0,1.266,66,259,0,8 km SW,"Anamizu, Japan",shallow,51.25,0,CEA-12,10,0.32
+us6000m39l,4.9,10,-12.3392,-19.0851,0,0.0,0.0,none,44.0,7.016,78,369,0,Direct Location,southern Mid-Atlantic Ridge,shallow,61.25,0,USGS-WEST,14,0.48
+pr71436738,2.57,6.75,-66.8773333333333,17.9065,0,1.0,0.0,none,230.0,0.0682,6,102,0,7 km SSE,"Guánica, Puerto Rico",shallow,32.12,0,PNSN-07,12,0.014
+us6000m39g,4.7,36.541,126.7185,8.4178,0,0.0,0.0,none,113.0,1.752,73,340,0,42 km NE,"Barcelona, Philippines",shallow,58.75,0,UNLINKED,0,0.44
+us6000m4nx,4.1,10,133.7479,-4.5979,0,0.0,0.0,none,154.0,2.24,18,259,0,158 km NE,"Tual, Indonesia",shallow,51.25,0,SCEDC-01,0,0.32
+us6000m39e,4.7,74.725,126.2584,1.2531,0,0.0,0.0,none,90.0,1.207,67,340,0,127 km E,"Bitung, Indonesia",intermediate,58.75,0,PNSN-07,9,0.44
+us7000lwyn,2.9,28.924,-163.4305,53.4781,0,0.0,0.0,none,227.0,1.183,28,129,0,153 km S,"False Pass, Alaska",shallow,36.25,0,PNSN-07,4,0.08
+us6000m39a,4.5,9.291,137.2927,37.4527,0,0.0,0.0,none,88.0,0.963,39,312,0,42 km NE,"Anamizu, Japan",shallow,56.25,0,SCEDC-01,0,0.4
+us6000m39d,4.9,10,-101.1966,1.384,0,0.0,0.0,none,200.0,16.283,40,369,0,Direct Location,Galapagos Triple Junction region,shallow,61.25,0,PNSN-07,3,0.48
+ak024jyw3sk,5.9,11.1,-135.7137,56.4383,591,4.1,4.674,green,103.0,1.382,31,778,1,69 km WNW,"Port Alexander, Alaska",shallow,73.75,1,USGS-WEST,0,0.68
+us7000lwym,3.3,29.356,-163.4153,53.4705,0,0.0,0.0,none,222.0,1.192,35,168,0,154 km S,"False Pass, Alaska",shallow,41.25,0,PNSN-07,0,0.16
+us7000lwyl,2.8,28.39,-166.7451,53.0809,0,0.0,0.0,none,226.0,0.718,22,121,0,89 km S,"Unalaska, Alaska",shallow,35.0,0,USGS-WEST,9,0.06
+us6000m391,4.8,10,-101.2195,1.493,0,0.0,0.0,none,208.0,16.18,185,354,0,Direct Location,Galapagos Triple Junction region,shallow,60.0,0,PNSN-07,4,0.46
+tx2024auoq,2.6,6.3827,-101.826,32.321,1,2.0,0.0,none,34.0,0.0,24,104,0,21 km N,"Stanton, Texas",shallow,32.5,0,PNSN-07,3,0.02
+us6000m4nu,4.5,85.259,126.6842,8.9392,0,0.0,0.0,none,117.0,2.156,35,312,0,41 km E,"Aras-asan, Philippines",intermediate,56.25,0,PNSN-07,8,0.4
+us6000m38m,4.2,217.586,70.9512,36.6494,0,0.0,0.0,none,75.0,2.902,62,271,0,26 km SSE,"Jurm, Afghanistan",intermediate,52.5,0,PNSN-07,5,0.34
+us7000lwyq,3.0,75.388,-171.8279,52.2216,0,0.0,0.0,none,199.0,1.326,18,138,0,162 km E,"Atka, Alaska",intermediate,37.5,0,PNSN-07,10,0.1
+us6000m4nt,4.5,10,144.7762,18.8549,0,0.0,0.0,none,159.0,19.944,19,312,0,Direct Location,"Pagan region, Northern Mariana Islands",shallow,56.25,0,CEA-12,8,0.4
+us6000m38i,5.0,28.748,22.8905,34.8918,1,3.4,0.0,none,63.0,1.687,102,385,0,81 km WSW,"Palaióchora, Greece",shallow,62.5,1,SCEDC-01,2,0.5
+us6000m38e,4.8,120.91,169.8592,-20.602,0,0.0,0.0,none,87.0,3.007,49,354,0,132 km SSE,"Isangel, Vanuatu",intermediate,60.0,0,PNSN-07,15,0.46
+us6000m38g,4.3,111.11,160.4765,54.8693,0,0.0,0.0,none,100.0,2.142,77,284,0,97 km SSE,"Atlasovo, Russia",intermediate,53.75,0,UNLINKED,0,0.36
+us6000m4nw,4.3,19.664,140.4691,-3.5093,0,0.0,0.0,none,116.0,1.022,17,284,0,102 km S,"Abepura, Indonesia",shallow,53.75,0,CEA-12,0,0.36
+us6000m38b,5.0,10,144.8122,18.9592,1,1.0,0.0,none,105.0,3.821,51,385,0,Direct Location,"Pagan region, Northern Mariana Islands",shallow,62.5,1,CEA-12,2,0.5
+us6000m38a,4.8,10,-33.9922,-60.7445,0,0.0,0.0,none,61.0,6.616,21,354,0,Direct Location,Scotia Sea,shallow,60.0,0,USGS-WEST,8,0.46
+us6000m387,5.0,44.076,126.43,4.8837,0,0.0,0.0,none,112.0,2.331,57,385,0,121 km ESE,"Sarangani, Philippines",shallow,62.5,1,UNLINKED,0,0.5
+us6000m4nv,4.4,70.857,94.0111,22.8069,0,0.0,0.0,none,91.0,1.801,52,298,0,36 km ESE,"Falam, Myanmar",intermediate,55.0,0,USGS-WEST,0,0.38
+us6000m385,4.3,51.564,-85.8273,10.5395,43,3.8,0.0,none,142.0,0.59,49,301,0,19 km W,"Sardinal, Costa Rica",shallow,53.75,0,CEA-12,13,0.36
+us6000m384,4.3,10,-56.252,44.5394,0,0.0,0.0,none,130.0,3.833,53,284,0,249 km S,"Saint-Pierre, Saint Pierre and Miquelon",shallow,53.75,0,UNLINKED,0,0.36
+us6000m4np,4.4,10,-173.3298,-20.2199,0,0.0,0.0,none,107.0,1.686,17,298,0,116 km ESE,"Fangale’ounga, Tonga",shallow,55.0,0,USGS-WEST,12,0.38
+us6000m4nn,4.5,10,145.8419,20.0961,0,0.0,0.0,none,128.0,4.829,26,312,0,Direct Location,"Maug Islands region, Northern Mariana Islands",shallow,56.25,0,SCEDC-01,1,0.4
+us6000m37y,4.7,59.067,146.3711,-5.7708,0,0.0,0.0,none,72.0,3.694,52,340,0,80 km NE,"Kainantu, Papua New Guinea",shallow,58.75,0,USGS-WEST,14,0.44
+us7000lwrx,3.0,86.72,-173.4881,51.9768,0,0.0,0.0,none,199.0,0.48,11,138,0,54 km ESE,"Atka, Alaska",intermediate,37.5,0,PNSN-07,0,0.1
+us6000m37t,4.3,89.59,71.1348,36.6721,0,0.0,0.0,none,78.0,2.849,32,284,0,34 km SE,"Jurm, Afghanistan",intermediate,53.75,0,PNSN-07,0,0.36
+us6000m37h,4.5,112.325,-70.0493,-32.6204,0,0.0,0.0,none,90.0,0.446,33,312,0,56 km ENE,"Los Andes, Chile",intermediate,56.25,0,CEA-12,4,0.4
+us6000m37d,4.8,499.399,-178.0479,-18.8466,0,0.0,0.0,none,44.0,3.534,62,354,0,291 km ESE,"Levuka, Fiji",deep,60.0,0,PNSN-07,7,0.46
+pr202401100,3.72,102,-65.9513,19.3313,0,0.0,0.0,none,258.0,1.0308,18,213,0,97 km N,"San Juan, Puerto Rico",intermediate,46.5,0,PNSN-07,1,0.244
+us6000m371,4.0,217.774,70.5667,36.5278,0,0.0,0.0,none,140.0,3.102,31,246,0,44 km SSW,"Jurm, Afghanistan",intermediate,50.0,0,PNSN-07,15,0.3
+us6000m36x,4.5,10,137.6389,37.5826,0,0.0,0.0,none,104.0,0.67,59,312,0,63 km NNW,"Itoigawa, Japan",shallow,56.25,0,USGS-WEST,8,0.4
+ak024ij0e9z,3.3,11.9,-154.1928,55.8696,0,0.0,0.0,none,103.0,1.382,31,168,0,119 km S,"Akhiok, Alaska",shallow,41.25,0,PNSN-07,13,0.16
+us6000m36b,4.4,35,154.6705,48.3595,0,0.0,0.0,none,137.0,5.128,61,298,0,278 km SSW,"Severo-Kuril’sk, Russia",shallow,55.0,0,CEA-12,9,0.38
+us6000m365,4.3,255.354,-66.2606,-22.6116,0,0.0,0.0,none,48.0,1.802,33,284,0,59 km WNW,"Abra Pampa, Argentina",intermediate,53.75,0,CEA-12,6,0.36
+us6000m4hp,4.8,40.462,-26.7268,-55.9651,0,0.0,0.0,none,122.0,5.848,28,354,0,Direct Location,South Sandwich Islands region,shallow,60.0,0,CEA-12,5,0.46
+ak024ihs2a8,3.7,66.8,-151.1266,61.5862,47,3.4,2.742,green,103.0,1.382,31,227,1,32 km W,"Susitna, Alaska",shallow,46.25,0,SCEDC-01,13,0.24
+us6000m35n,4.3,53.11,-71.7116,-34.7776,0,0.0,0.0,none,119.0,0.645,38,284,0,35 km WSW,"Santa Cruz, Chile",shallow,53.75,0,SCEDC-01,11,0.36
+us6000m35m,3.3,10,-115.4038,31.3551,1,1.0,0.0,none,84.0,0.323,30,168,0,65 km NW,"San Felipe, Mexico",shallow,41.25,0,SCEDC-01,6,0.16
+us6000m35f,4.8,40.356,-176.7023,-28.2726,0,0.0,0.0,none,81.0,1.449,30,354,0,Direct Location,Kermadec Islands region,shallow,60.0,0,CEA-12,5,0.46
+us6000m35e,4.8,508.356,-179.7585,-23.9087,0,0.0,0.0,none,103.0,5.015,59,354,0,south,the Fiji Islands,deep,60.0,0,PNSN-07,4,0.46
+us6000m4hh,4.3,527.218,-178.0463,-20.2726,0,0.0,0.0,none,71.0,2.806,41,284,0,Direct Location,Fiji region,deep,53.75,0,SCEDC-01,6,0.36
+us6000m33e,4.3,298.551,124.0298,1.9746,0,0.0,0.0,none,106.0,3.249,26,284,0,106 km WNW,"Manado, Indonesia",intermediate,53.75,0,CEA-12,4,0.36
+us6000m33c,2.8,5,-93.3181,32.1158,22,4.6,0.0,none,88.0,0.788,18,131,0,6 km SSW,"Hall Summit, Louisiana",shallow,35.0,0,PNSN-07,7,0.06
+us6000m339,4.6,10,106.7721,-9.5674,0,0.0,0.0,none,90.0,1.382,33,326,0,272 km SSW,"Banjar, Indonesia",shallow,57.5,0,USGS-WEST,0,0.42
+pr71436693,2.53,17.44,-66.8078333333333,18.028,0,0.0,0.0,none,116.0,0.01744,12,98,0,1 km WNW,"Guayanilla, Puerto Rico",shallow,31.62,0,PNSN-07,12,0.006
+hv73714677,3.18,28.46,-155.251166666667,19.3611666666667,2,3.4,4.721,none,97.0,1.382,57,156,0,9 km SSW,"Volcano, Hawaii",shallow,39.75,0,PNSN-07,4,0.136
+us6000m4hk,4.3,10,-104.6576,-4.6328,0,0.0,0.0,none,175.0,22.858,16,284,0,Direct Location,central East Pacific Rise,shallow,53.75,0,CEA-12,2,0.36
+us6000m4hi,4.3,15.103,140.1966,-3.3796,0,0.0,0.0,none,100.0,0.997,18,284,0,99 km SSW,"Abepura, Indonesia",shallow,53.75,0,PNSN-07,14,0.36
+us6000m4hb,4.1,54.228,111.3107,-9.2312,0,0.0,0.0,none,77.0,2.333,21,259,0,134 km SSW,"Trenggalek, Indonesia",shallow,51.25,0,USGS-WEST,0,0.32
+us7000lwh1,3.1,122.673,178.2348,51.8349,0,0.0,0.0,none,166.0,0.206,15,148,0,Direct Location,"Rat Islands, Aleutian Islands, Alaska",intermediate,38.75,0,CEA-12,14,0.12
+us6000m4h9,4.2,11.489,142.4559,42.7408,0,0.0,0.0,none,89.0,0.892,40,271,0,28 km S,"Shimukappu, Japan",shallow,52.5,0,UNLINKED,0,0.34
+ak024id3tit,2.5,35,-150.0036,61.5514,1,2.0,0.0,none,103.0,1.382,31,96,0,4 km NW,"Big Lake, Alaska",shallow,31.25,0,USGS-WEST,2,0.0
+us6000m4hf,4.1,99.658,110.5209,-8.8208,0,0.0,0.0,none,129.0,1.762,19,259,0,95 km S,"Wonosari, Indonesia",intermediate,51.25,0,USGS-WEST,2,0.32
+us6000m4h8,4.7,10,-178.427,-15.2008,0,0.0,0.0,none,160.0,4.219,9,340,0,104 km SSW,"Alo, Wallis and Futuna",shallow,58.75,0,CEA-12,1,0.44
+us6000m4h7,4.5,10,142.0567,31.6351,0,0.0,0.0,none,122.0,2.404,40,312,0,Direct Location,"Izu Islands, Japan region",shallow,56.25,0,SCEDC-01,5,0.4
+us6000m31m,6.4,204,70.6013,36.4979,111,5.1,4.196,green,17.0,3.122,140,687,0,45 km SSW,"Jurm, Afghanistan",intermediate,80.0,1,CEA-12,2,0.78
+us7000lwh4,2.7,10,-179.5636,51.0564,0,0.0,0.0,none,225.0,0.783,10,112,0,222 km WSW,"Adak, Alaska",shallow,33.75,0,PNSN-07,4,0.04
+us7000lwh0,3.0,27.529,-164.29,53.7884,0,0.0,0.0,none,208.0,0.75,32,138,0,104 km ESE,"Akutan, Alaska",shallow,37.5,0,UNLINKED,0,0.1
+us6000m31b,2.5,14.33,-115.2523,31.4054,0,0.0,0.0,none,242.0,1.363,22,96,0,57 km NW,"San Felipe, Mexico",shallow,31.25,0,CEA-12,15,0.0
+us6000m31a,4.1,208.962,70.8889,36.5755,9,4.6,0.0,none,135.0,2.985,62,263,0,32 km S,"Jurm, Afghanistan",intermediate,51.25,0,CEA-12,4,0.32
+us6000m4h6,4.2,10,131.5977,-6.7757,0,0.0,0.0,none,101.0,2.802,19,271,0,180 km SW,"Tual, Indonesia",shallow,52.5,0,PNSN-07,7,0.34
+us6000m318,4.5,10,-17.4809,64.451,1,6.2,0.0,none,105.0,1.685,52,312,0,111 km W,"Höfn, Iceland",shallow,56.25,0,USGS-WEST,5,0.4
+us6000m4h4,4.5,10,-101.2438,1.4159,0,0.0,0.0,none,196.0,16.26,55,312,0,Direct Location,Galapagos Triple Junction region,shallow,56.25,0,CEA-12,13,0.4
+us6000m4h2,3.8,24.516,-175.0463,51.1534,0,0.0,0.0,none,192.0,1.175,89,222,0,129 km SSW,"Atka, Alaska",shallow,47.5,0,USGS-WEST,0,0.26
+us6000m4ha,4.4,63.868,-26.8583,-56.2565,0,0.0,0.0,none,97.0,5.849,25,298,0,Direct Location,South Sandwich Islands region,shallow,55.0,0,PNSN-07,11,0.38
+us7000lwgy,3.3,35,-175.0017,51.1401,0,0.0,0.0,none,217.0,1.175,19,168,0,129 km SSW,"Atka, Alaska",shallow,41.25,0,CEA-12,8,0.16
+us6000m4h1,4.0,12.549,161.5129,-9.8847,0,0.0,0.0,none,97.0,1.606,14,246,0,77 km NW,"Kirakira, Solomon Islands",shallow,50.0,0,PNSN-07,0,0.3
+us6000m30y,5.2,10,-141.2625,-26.4576,0,0.0,0.0,none,83.0,36.935,147,416,0,Direct Location,South Pacific Ocean,shallow,65.0,1,USGS-WEST,2,0.54
+tx2024asoe,2.5,6.4561,-104.534,31.604,0,0.0,0.0,none,85.0,0.1,16,96,0,65 km SSW,"Whites City, New Mexico",shallow,31.25,0,CEA-12,6,0.0
+us6000m4h0,4.4,10,-29.1764,0.8498,0,0.0,0.0,none,146.0,9.438,11,298,0,Direct Location,central Mid-Atlantic Ridge,shallow,55.0,0,SCEDC-01,0,0.38
+us6000m4gy,4.4,10,144.6628,18.8618,0,0.0,0.0,none,165.0,23.614,18,298,0,Direct Location,"Pagan region, Northern Mariana Islands",shallow,55.0,0,PNSN-07,10,0.38
+us6000m4gx,4.0,256.068,144.5476,20.731,0,0.0,0.0,none,158.0,13.034,25,246,0,Direct Location,"Maug Islands region, Northern Mariana Islands",intermediate,50.0,0,PNSN-07,6,0.3
+us6000m4gw,4.4,35,146.166,20.5038,0,0.0,0.0,none,128.0,23.165,26,298,0,Direct Location,Mariana Islands region,shallow,55.0,0,CEA-12,8,0.38
+nc73987616,2.92,7.1,-121.9266667,36.4211667,40,4.1,0.0,none,168.0,0.0645,65,148,0,13 km N,"Point Sur, CA",shallow,36.5,0,PNSN-07,1,0.084
+us6000m4gu,4.5,10,-101.2828,1.4857,0,0.0,0.0,none,123.0,16.197,32,312,0,Direct Location,Galapagos Triple Junction region,shallow,56.25,0,UNLINKED,0,0.4
+us6000m2zu,4.9,10.325,156.1319,-7.2955,0,0.0,0.0,none,64.0,4.334,63,369,0,118 km NW,"Gizo, Solomon Islands",shallow,61.25,0,PNSN-07,13,0.48
+us6000m2zs,5.0,120.742,-76.7022,-5.9215,3,3.4,0.0,none,69.0,2.069,167,386,0,32 km ENE,"Moyobamba, Peru",intermediate,62.5,1,CEA-12,0,0.5
+us6000m4gi,4.1,596.207,-179.7211,-22.5805,0,0.0,0.0,none,163.0,31.754,15,259,0,south,the Fiji Islands,deep,51.25,0,UNLINKED,0,0.32
+us6000m2z8,5.0,10,147.6218,17.4642,0,0.0,0.0,none,128.0,2.825,100,385,0,Direct Location,Mariana Islands region,shallow,62.5,1,PNSN-07,11,0.5
+us6000m2yy,4.3,11.323,27.6267,36.4993,1,3.4,0.0,none,107.0,0.491,60,285,0,22 km SW,"Sými, Greece",shallow,53.75,0,CEA-12,12,0.36
+us6000m4gj,4.0,53.494,147.6015,-6.3567,0,0.0,0.0,none,105.0,3.06,17,246,0,35 km NW,"Finschhafen, Papua New Guinea",shallow,50.0,0,PNSN-07,5,0.3
+ak024gvvvpq,2.7,28.3,-149.0369,62.3655,0,0.0,0.0,none,103.0,1.382,31,112,0,48 km ENE,"Susitna North, Alaska",shallow,33.75,0,UNLINKED,0,0.04
+us6000m2yq,4.1,152.796,71.8034,37.1973,0,0.0,0.0,none,152.0,2.277,44,259,0,39 km SE,"Khorugh, Tajikistan",intermediate,51.25,0,CEA-12,15,0.32
+us6000m2ym,4.6,67.32,128.3971,2.025,0,0.0,0.0,none,108.0,1.616,57,326,0,54 km NE,"Tobelo, Indonesia",shallow,57.5,0,USGS-WEST,0,0.42
+ak024gvgdlu,2.9,152.1,-155.4105,58.6793,0,0.0,0.0,none,103.0,1.382,31,129,0,72 km E,"King Salmon, Alaska",intermediate,36.25,0,PNSN-07,1,0.08
+us6000m4gh,4.2,86.188,160.1173,53.3867,0,0.0,0.0,none,178.0,0.955,39,271,0,105 km ENE,"Petropavlovsk-Kamchatsky, Russia",intermediate,52.5,0,CEA-12,4,0.34
+us6000m4ge,4.4,10,127.1469,8.7981,0,0.0,0.0,none,127.0,2.315,19,298,0,92 km E,"Aras-asan, Philippines",shallow,55.0,0,UNLINKED,0,0.38
+us6000m2yc,4.2,10,35.9488,36.1511,5,2.2,0.0,none,50.0,1.437,49,272,0,7 km W,"Uzunbağ, Turkey",shallow,52.5,0,CEA-12,14,0.34
+uw61979466,2.52,7.21,-119.34683333333334,42.27616666666667,0,0.0,0.0,none,170.0,0.4251,9,98,0,48 km ESE,"Plush, Oregon",shallow,31.5,0,PNSN-07,10,0.004
+us6000m4ga,4.2,10,170.7919,-23.2462,0,0.0,0.0,none,188.0,3.148,14,271,0,southeast,the Loyalty Islands,shallow,52.5,0,CEA-12,7,0.34
+us6000m4g8,4.2,530.097,-177.8014,-19.9441,0,0.0,0.0,none,106.0,2.722,25,271,0,293 km WNW,"Houma, Tonga",deep,52.5,0,UNLINKED,0,0.34
+us7000lwwy,3.4,144.278,-170.2418,52.8678,0,0.0,0.0,none,151.0,0.133,32,178,0,93 km W,"Nikolski, Alaska",intermediate,42.5,0,PNSN-07,10,0.18
+ak024grrr4j,2.8,64.3,-147.9336,62.9561,0,0.0,0.0,none,103.0,1.382,31,121,0,70 km SE,"Cantwell, Alaska",shallow,35.0,0,CEA-12,14,0.06
+ak024gqlgxh,3.2,15.5,-156.0259,55.7669,1,3.4,0.0,none,103.0,1.382,31,158,0,159 km ESE,"Chignik, Alaska",shallow,40.0,0,SCEDC-01,10,0.14
+us6000m4g5,4.6,10,-25.7794,-60.5404,0,0.0,0.0,none,185.0,14.384,17,326,0,Direct Location,South Sandwich Islands region,shallow,57.5,0,PNSN-07,5,0.42
+us6000m2w6,4.6,484.097,-177.7505,-20.5205,0,0.0,0.0,none,72.0,2.468,51,326,0,264 km WNW,"Houma, Tonga",deep,57.5,0,PNSN-07,0,0.42
+us6000m2w3,4.1,45.759,-161.8348,54.4338,1,2.0,1.795,none,167.0,0.609,95,259,0,76 km SSE,"King Cove, Alaska",shallow,51.25,0,CEA-12,0,0.32
+us6000m4gb,4.3,23.727,146.9745,19.558,0,0.0,0.0,none,156.0,4.44,26,284,0,Direct Location,Mariana Islands region,shallow,53.75,0,USGS-WEST,10,0.36
+hv73713837,2.68,31.69,-155.449833333333,19.1773333333333,0,0.0,0.0,none,157.0,1.382,42,110,0,4 km SE,"Pāhala, Hawaii",shallow,33.5,0,SCEDC-01,0,0.036
+us6000m4g2,4.5,10,171.1165,-23.3184,0,0.0,0.0,none,117.0,3.454,25,312,0,southeast,the Loyalty Islands,shallow,56.25,0,SCEDC-01,13,0.4
+us6000m4gk,4.5,10,-40.3731,8.6925,0,0.0,0.0,none,152.0,21.44,12,312,0,Direct Location,central Mid-Atlantic Ridge,shallow,56.25,0,USGS-WEST,10,0.4
+us6000m2vh,4.1,10,3.4897,72.5353,0,0.0,0.0,none,75.0,6.52,36,259,0,Direct Location,Norwegian Sea,shallow,51.25,0,CEA-12,0,0.32
+us6000m2v7,3.2,19.252,172.9018,-43.4806,6,3.8,0.0,none,182.0,0.289,23,160,0,14 km ENE,"New Brighton, New Zealand",shallow,40.0,0,UNLINKED,0,0.14
+us6000m2v5,4.9,10,-174.9647,51.1794,0,0.0,2.411,none,88.0,1.13,94,369,0,124 km SSW,"Atka, Alaska",shallow,61.25,0,SCEDC-01,12,0.48
+nc73987281,2.78,8.93,-119.5405,38.3848333,0,0.0,0.0,none,90.0,0.08668,20,119,0,15 km SSW,"Walker, CA",shallow,34.75,0,PNSN-07,10,0.056
+us6000m4g1,4.2,49.233,141.9903,40.5576,0,0.0,0.0,none,137.0,0.741,25,271,0,42 km E,"Hachinohe, Japan",shallow,52.5,0,PNSN-07,7,0.34
+us6000m2vd,5.0,10,-8.1614,-49.2149,0,0.0,0.0,none,90.0,18.187,39,385,0,Direct Location,southern Mid-Atlantic Ridge,shallow,62.5,1,PNSN-07,11,0.5
+us6000m2ux,4.5,85.164,93.2401,11.7494,3,2.0,0.0,none,48.0,6.304,64,312,0,54 km E,"Port Blair, India",intermediate,56.25,0,PNSN-07,7,0.4
+us6000m4fz,4.1,10,127.3718,8.49,0,0.0,0.0,none,123.0,7.667,27,259,0,109 km ENE,"Barcelona, Philippines",shallow,51.25,0,SCEDC-01,5,0.32
+us6000m4fy,4.3,10,96.6557,0.0817,0,0.0,0.0,none,181.0,1.523,30,284,0,138 km WSW,"Teluk Dalam, Indonesia",shallow,53.75,0,CEA-12,8,0.36
+ak024gjzg19,2.8,50.7,-151.1957,60.6199,0,0.0,0.0,none,103.0,1.382,31,121,0,6 km E,"Salamatof, Alaska",shallow,35.0,0,USGS-WEST,15,0.06
+us6000m4fx,4.1,10,-178.0143,-31.5128,0,0.0,0.0,none,176.0,2.245,13,259,0,Direct Location,Kermadec Islands region,shallow,51.25,0,PNSN-07,15,0.32
+nn00871538,3.1,10.5,-118.2517,38.1254,1,2.2,0.0,none,51.86,0.222,11,148,0,31 km SSW,"Mina, Nevada",shallow,38.75,0,USGS-WEST,2,0.12
+us6000m49s,3.5,35,-175.2904,51.2975,0,0.0,0.0,none,217.0,1.048,12,188,0,113 km SE,"Adak, Alaska",shallow,43.75,0,CEA-12,1,0.2
+us6000m49n,4.4,10,156.2413,-7.3639,0,0.0,0.0,none,140.0,4.206,16,298,0,105 km NW,"Gizo, Solomon Islands",shallow,55.0,0,USGS-WEST,10,0.38
+pr71436648,2.7,23.82,-67.0511666666667,18.1336666666667,0,0.0,0.0,none,49.0,0.04866,19,112,0,5 km N,"San Germán, Puerto Rico",shallow,33.75,0,PNSN-07,14,0.04
+us6000m2ui,4.8,10,69.5357,-23.9375,0,0.0,0.0,none,79.0,13.04,48,354,0,Direct Location,Mid-Indian Ridge,shallow,60.0,0,PNSN-07,14,0.46
+us6000m2ty,4.4,10,35.1796,40.5841,0,0.0,0.0,none,50.0,1.025,32,298,0,12 km NW,"Mecitözü, Turkey",shallow,55.0,0,SCEDC-01,4,0.38
+us7000lvji,3.0,35,-170.4633,52.2421,0,0.0,0.0,none,215.0,0.678,15,138,0,133 km SW,"Nikolski, Alaska",shallow,37.5,0,PNSN-07,1,0.1
+us6000m2tw,4.4,10,130.9989,-3.265,0,0.0,0.0,none,80.0,1.295,26,298,0,149 km WSW,"Fakfak, Indonesia",shallow,55.0,0,CEA-12,9,0.38
+us6000m49m,4.0,125.077,167.2916,-15.0451,0,0.0,0.0,none,146.0,6.178,18,246,0,23 km E,"Port-Olry, Vanuatu",intermediate,50.0,0,USGS-WEST,2,0.3
+us6000m2tc,4.0,10,37.3581,37.9544,0,0.0,0.0,none,75.0,0.574,29,246,0,7 km W,"Nurhak, Turkey",shallow,50.0,0,USGS-WEST,0,0.3
+nn00871497,2.5,13.4,-119.6837,40.0639,2,2.0,0.0,none,92.2,0.113,16,97,0,14 km NNW,"Sutcliffe, Nevada",shallow,31.25,0,UNLINKED,0,0.0
+ak024f626x5,2.7,24.8,-173.3438,64.9466,0,0.0,0.0,none,103.0,1.382,31,112,0,58 km N,"Provideniya, Russia",shallow,33.75,0,PNSN-07,11,0.04
+us6000m2sb,5.4,175.245,-67.2296,-21.8843,0,0.0,3.249,green,32.0,1.379,221,449,0,128 km SE,"Ollagüe, Chile",intermediate,67.5,1,USGS-WEST,6,0.58
+us6000m49i,4.0,199.601,-174.8253,52.8528,0,0.0,0.0,none,76.0,0.591,26,246,0,84 km NNW,"Atka, Alaska",intermediate,50.0,0,CEA-12,1,0.3
+ak024f4sqa5,2.9,74,-150.8591,62.5171,0,0.0,0.0,none,103.0,1.382,31,129,0,5 km WNW,"Petersville, Alaska",intermediate,36.25,0,PNSN-07,2,0.08
+us6000m2pq,4.8,73.326,146.3129,13.9161,1,2.7,0.0,none,98.0,1.404,111,355,0,138 km SSE,"San Jose Village, Northern Mariana Islands",intermediate,60.0,0,SCEDC-01,4,0.46
+us6000m49c,4.5,52.022,103.8378,-6.1958,0,0.0,0.0,none,134.0,2.024,40,312,0,178 km WSW,"Bandar Lampung, Indonesia",shallow,56.25,0,SCEDC-01,9,0.4
+us6000m49d,4.3,10,122.8087,15.7482,0,0.0,0.0,none,136.0,7.219,29,284,0,118 km NE,"Karligan, Philippines",shallow,53.75,0,CEA-12,3,0.36
+us6000m49b,4.1,10,125.3566,5.1326,0,0.0,0.0,none,148.0,1.937,14,259,0,32 km SSW,"Sarangani, Philippines",shallow,51.25,0,SCEDC-01,10,0.32
+us6000m49a,4.4,10,137.5425,38.0601,0,0.0,0.0,none,68.0,0.565,36,298,0,71 km W,"Sado, Japan",shallow,55.0,0,SCEDC-01,0,0.38
+us6000m2p4,4.5,10,137.7155,37.8318,0,0.0,0.0,none,95.0,0.476,69,312,0,60 km WSW,"Sado, Japan",shallow,56.25,0,USGS-WEST,0,0.4
+tx2024apiq,2.7,6.6843,-104.021,31.634,0,0.0,0.0,none,25.0,0.0,42,112,0,40 km WSW,"Mentone, Texas",shallow,33.75,0,UNLINKED,0,0.04
+us6000m498,4.5,10,36.2369,37.8806,0,0.0,0.0,none,75.0,0.312,27,312,0,17 km SE,"Saimbeyli, Turkey",shallow,56.25,0,SCEDC-01,14,0.4
+pr2024009001,3.57,24,-66.6045,19.0323,1,3.8,0.0,none,219.0,0.7588,16,196,0,63 km N,"Arecibo, Puerto Rico",shallow,44.62,0,CEA-12,2,0.214
+us6000m2ny,5.9,10,137.7814,37.8629,14,4.3,4.907,green,24.0,0.416,147,542,0,53 km WSW,"Sado, Japan",shallow,73.75,1,UNLINKED,0,0.68
+pr71436623,2.97,15.04,-66.9608333333333,17.9448333333333,2,2.2,0.0,none,200.0,0.05665,18,136,0,6 km WSW,"Guánica, Puerto Rico",shallow,37.12,0,USGS-WEST,6,0.094
+us6000m49h,4.5,10,-173.6388,-20.8006,0,0.0,0.0,none,85.0,1.508,23,312,0,132 km SE,"Pangai, Tonga",shallow,56.25,0,PNSN-07,11,0.4
+pr71436618,2.91,13.34,-65.4208333333333,18.0395,0,0.0,0.0,none,150.0,0.2851,8,130,0,8 km SE,"Esperanza, Puerto Rico",shallow,36.38,0,PNSN-07,8,0.082
+us6000m2nr,5.6,10,-173.6067,-20.8063,0,0.0,3.285,green,46.0,1.535,79,482,0,134 km SE,"Pangai, Tonga",shallow,70.0,1,PNSN-07,0,0.62
+ak024ezql9j,3.9,12.6,-154.9993,65.6688,0,0.0,3.421,none,103.0,1.382,31,234,0,54 km SW,"Hughes, Alaska",shallow,48.75,0,PNSN-07,14,0.28
+us7000lw46,3.7,71.799,-177.5738,51.8493,0,0.0,0.0,none,186.0,0.553,22,211,0,64 km W,"Adak, Alaska",intermediate,46.25,0,PNSN-07,11,0.24
+pr202400900,3.46,25,-66.6203,19.1411,0,0.0,0.0,none,261.0,0.8335,11,184,0,74 km N,"Arecibo, Puerto Rico",shallow,43.25,0,SCEDC-01,2,0.192
+pr71436598,2.7,39.83,-66.7283333333333,18.0108333333333,0,0.0,0.0,none,163.0,0.148,14,112,0,2 km NW,"Tallaboa, Puerto Rico",shallow,33.75,0,SCEDC-01,10,0.04
+us6000m493,4.2,140.016,125.5756,2.9203,0,0.0,0.0,none,145.0,2.785,21,271,0,171 km NNE,"Bitung, Indonesia",intermediate,52.5,0,USGS-WEST,1,0.34
+us6000m2nb,4.9,10,133.9948,-4.5621,0,0.0,0.0,none,52.0,2.387,67,369,0,181 km NE,"Tual, Indonesia",shallow,61.25,0,PNSN-07,6,0.48
+pr71436588,3.42,29.32,-66.611,19.196,0,0.0,0.0,none,301.0,0.9439,10,180,0,80 km N,"Arecibo, Puerto Rico",shallow,42.75,0,USGS-WEST,14,0.184
+us6000m491,4.4,10,-94.7952,2.9776,0,0.0,0.0,none,151.0,11.931,20,298,0,Direct Location,"Galapagos Islands, Ecuador region",shallow,55.0,0,UNLINKED,0,0.38
+pr71436578,3.43,25.36,-66.6405,19.1486666666667,1,2.0,0.0,none,277.0,0.8111,13,181,0,75 km N,"Arecibo, Puerto Rico",shallow,42.88,0,SCEDC-01,14,0.186
+us6000m490,4.3,10,68.0391,-7.1237,0,0.0,0.0,none,148.0,4.388,14,284,0,Direct Location,Chagos Archipelago region,shallow,53.75,0,PNSN-07,0,0.36
+us6000m2n7,5.1,10,96.5636,0.0777,0,0.0,0.0,none,42.0,1.583,73,400,0,148 km WSW,"Teluk Dalam, Indonesia",shallow,63.75,1,PNSN-07,7,0.52
+us7000lw45,2.9,64.289,179.4608,51.4932,0,0.0,0.0,none,141.0,0.152,10,129,0,273 km W,"Adak, Alaska",shallow,36.25,0,UNLINKED,0,0.08
+us6000m2n1,4.7,254.102,-66.0064,-22.5631,2,2.2,0.0,none,29.0,2.042,82,340,0,36 km WNW,"Abra Pampa, Argentina",intermediate,58.75,0,CEA-12,7,0.44
+us6000m48z,4.3,35,-88.758,12.6184,0,0.0,0.0,none,160.0,0.946,19,284,0,76 km SSW,"Puerto El Triunfo, El Salvador",shallow,53.75,0,PNSN-07,0,0.36
+us6000m48y,4.1,96.647,126.205,4.6255,0,0.0,0.0,none,129.0,6.443,19,259,0,118 km SE,"Sarangani, Philippines",intermediate,51.25,0,PNSN-07,0,0.32
+us6000m2mu,4.4,135.568,-68.6105,-21.8181,0,0.0,0.0,none,47.0,0.587,23,298,0,75 km SSW,"Ollagüe, Chile",intermediate,55.0,0,CEA-12,9,0.38
+us6000m2mx,4.4,10,161.0256,52.8033,0,0.0,0.0,none,137.0,1.455,52,298,0,163 km E,"Petropavlovsk-Kamchatsky, Russia",shallow,55.0,0,PNSN-07,3,0.38
+us6000m2mt,4.4,67.075,-89.561,13.3546,0,0.0,0.0,none,118.0,0.317,27,298,0,29 km WSW,"La Libertad, El Salvador",shallow,55.0,0,CEA-12,1,0.38
+us6000m2mr,5.2,199.672,167.2986,-14.0404,1,3.8,3.321,green,40.0,7.084,116,416,0,32 km WSW,"Sola, Vanuatu",intermediate,65.0,1,PNSN-07,13,0.54
+us6000m2mq,2.8,5,-93.3345,32.0372,8,3.8,0.0,none,74.0,0.796,21,124,0,1 km S,"Edgefield, Louisiana",shallow,35.0,0,PNSN-07,11,0.06
+us7000lw48,2.9,35,176.1864,51.4585,0,0.0,0.0,none,224.0,1.528,11,129,0,256 km SE,"Attu Station, Alaska",shallow,36.25,0,PNSN-07,5,0.08
+us6000m2ml,4.3,10,-130.0585,50.8188,3,3.1,0.0,none,155.0,1.237,59,285,0,211 km W,"Port McNeill, Canada",shallow,53.75,0,CEA-12,0,0.36
+us6000m2mk,4.0,204.028,70.7905,36.5029,0,0.0,0.0,none,102.0,3.075,43,246,0,40 km S,"Jurm, Afghanistan",intermediate,50.0,0,PNSN-07,9,0.3
+us6000m2mj,4.5,97.409,126.3124,4.7116,1,2.0,0.0,none,106.0,2.453,52,312,0,121 km SE,"Sarangani, Philippines",intermediate,56.25,0,USGS-WEST,0,0.4
+hv73713192,2.91,34.36,-155.494,19.1755,0,0.0,0.0,none,140.0,1.382,44,130,0,3 km SSW,"Pāhala, Hawaii",shallow,36.38,0,PNSN-07,2,0.082
+us6000m2mi,4.9,54.307,-79.7583,-8.1062,1,3.8,0.0,none,93.0,1.661,93,370,0,59 km WSW,"Santiago de Cao, Peru",shallow,61.25,0,PNSN-07,1,0.48
+us6000m48x,4.1,28.678,-92.3151,13.7496,0,0.0,0.0,none,188.0,1.152,29,259,0,74 km SW,"Champerico, Guatemala",shallow,51.25,0,CEA-12,1,0.32
+us6000m48w,4.4,10,-83.0607,3.3947,0,0.0,0.0,none,163.0,4.699,18,298,0,off the coast,Central America,shallow,55.0,0,CEA-12,10,0.38
+us6000m2mc,4.4,509.182,-177.6302,-20.546,0,0.0,0.0,none,87.0,2.353,34,298,0,251 km WNW,"Houma, Tonga",deep,55.0,0,PNSN-07,8,0.38
+us6000m47c,4.1,10,145.448,20.1873,0,0.0,0.0,none,167.0,22.992,15,259,0,Direct Location,"Maug Islands region, Northern Mariana Islands",shallow,51.25,0,PNSN-07,6,0.32
+us7000lvfi,3.0,32.631,-159.7916,54.4951,0,0.0,0.0,none,212.0,0.943,25,138,0,104 km SSE,"Sand Point, Alaska",shallow,37.5,0,PNSN-07,9,0.1
+us7000lvfh,3.6,25.817,-159.6927,54.4421,0,0.0,0.0,none,188.0,1.016,35,199,0,112 km SSE,"Sand Point, Alaska",shallow,45.0,0,CEA-12,9,0.22
+us7000lvfm,2.9,35,-159.84,54.5505,0,0.0,0.0,none,231.0,0.881,9,129,0,97 km SSE,"Sand Point, Alaska",shallow,36.25,0,SCEDC-01,1,0.08
+us6000m47b,4.2,62.882,126.4601,4.9569,0,0.0,0.0,none,151.0,2.274,22,271,0,121 km ESE,"Sarangani, Philippines",shallow,52.5,0,USGS-WEST,0,0.34
+us6000m47a,4.3,10,177.7928,-16.2857,0,0.0,0.0,none,153.0,1.472,11,284,0,138 km N,"Ba, Fiji",shallow,53.75,0,SCEDC-01,0,0.36
+us6000m2lz,4.6,79.455,148.6823,-6.0744,0,0.0,0.0,none,73.0,3.636,46,326,0,96 km W,"Kandrian, Papua New Guinea",intermediate,57.5,0,PNSN-07,0,0.42
+us6000m47g,4.1,92.212,126.299,4.6686,0,0.0,0.0,none,134.0,2.49,13,259,0,123 km SE,"Sarangani, Philippines",intermediate,51.25,0,PNSN-07,1,0.32
+us6000m2lw,4.1,565.211,-178.8484,-17.6325,0,0.0,0.0,none,94.0,2.956,54,259,0,200 km ENE,"Levuka, Fiji",deep,51.25,0,USGS-WEST,0,0.32
+us6000m479,4.5,82.702,126.0506,4.8164,0,0.0,0.0,none,81.0,2.287,50,312,0,91 km SE,"Sarangani, Philippines",intermediate,56.25,0,SCEDC-01,12,0.4
+us6000m478,4.2,88.58,126.0407,4.7288,0,0.0,0.0,none,110.0,2.37,25,271,0,98 km SE,"Sarangani, Philippines",intermediate,52.5,0,USGS-WEST,2,0.34
+us6000m2jp,6.7,62.574,126.1575,4.9225,24,4.9,5.599,green,22.0,2.209,138,702,1,93 km SE,"Sarangani, Philippines",shallow,83.75,1,SCEDC-01,13,0.84
+pr71436553,2.8,50.5,-66.848,17.9825,0,0.0,0.0,none,150.0,0.03066,28,121,0,3 km WSW,"Indios, Puerto Rico",shallow,35.0,0,USGS-WEST,13,0.06
+pr71436543,3.14,21.13,-66.6216666666667,19.1221666666667,0,0.0,0.0,none,274.0,0.7994,12,152,0,72 km N,"Arecibo, Puerto Rico",shallow,39.25,0,PNSN-07,15,0.128
+us6000m2j7,4.3,10,95.1787,21.1189,0,0.0,0.0,none,150.0,4.119,48,284,0,25 km SSE,"Pakokku, Myanmar",shallow,53.75,0,USGS-WEST,8,0.36
+ak024djx00j,2.5,30.6,-149.7165,61.7282,1,2.7,0.0,none,103.0,1.382,31,96,0,12 km NNE,"Houston, Alaska",shallow,31.25,0,PNSN-07,4,0.0
+us6000m477,4.1,9.657,130.2169,-5.4502,0,0.0,0.0,none,95.0,0.973,20,259,0,274 km SSE,"Amahai, Indonesia",shallow,51.25,0,SCEDC-01,0,0.32
+us6000m476,4.1,9.555,130.1167,-5.4882,0,0.0,0.0,none,94.0,0.982,27,259,0,272 km SSE,"Amahai, Indonesia",shallow,51.25,0,PNSN-07,13,0.32
+us6000m2j5,4.4,10,55.7983,32.4464,0,0.0,0.0,none,78.0,5.79,60,298,0,100 km NNE,"Bāfq, Iran",shallow,55.0,0,PNSN-07,12,0.38
+us6000m47d,4.5,10,145.5678,20.1886,0,0.0,0.0,none,125.0,4.925,62,312,0,Direct Location,"Maug Islands region, Northern Mariana Islands",shallow,56.25,0,SCEDC-01,10,0.4
+us6000m2iu,4.5,10,84.8103,43.9549,0,0.0,0.0,none,81.0,3.348,68,312,0,42 km S,"Dushanzi, China",shallow,56.25,0,SCEDC-01,4,0.4
+us6000m2ij,4.9,76.519,155.6579,-7.1012,0,0.0,0.0,none,78.0,4.522,105,369,0,88 km SSE,"Panguna, Papua New Guinea",intermediate,61.25,0,SCEDC-01,12,0.48
+us6000m2ha,4.3,116.266,-68.3288,-21.49,0,0.0,0.0,none,43.0,0.902,43,284,0,30 km SSW,"Ollagüe, Chile",intermediate,53.75,0,PNSN-07,0,0.36
+us7000lvfk,3.0,35,-171.1747,52.2101,0,0.0,0.0,none,205.0,0.973,14,138,0,176 km WSW,"Nikolski, Alaska",shallow,37.5,0,CEA-12,5,0.1
+ci40456839,3.05,9.68,-117.4821667,35.6033333,1,1.0,0.0,none,36.0,0.02339,54,143,0,18 km E,"Ridgecrest, CA",shallow,38.12,0,PNSN-07,2,0.11
+us6000m2gk,4.9,10,-173.3059,-20.1843,0,0.0,0.0,none,83.0,2.029,55,369,0,116 km ESE,"Fangale’ounga, Tonga",shallow,61.25,0,PNSN-07,4,0.48
+us6000m46y,4.3,10,147.5545,-5.7598,0,0.0,0.0,none,99.0,3.642,19,284,0,93 km NNW,"Finschhafen, Papua New Guinea",shallow,53.75,0,UNLINKED,0,0.36
+us6000m2gg,4.4,249.795,-66.2306,-22.7899,0,0.0,0.0,none,49.0,1.804,50,298,0,55 km W,"Abra Pampa, Argentina",intermediate,55.0,0,PNSN-07,2,0.38
+us6000m46x,4.4,78.64,126.3334,8.4136,0,0.0,0.0,none,140.0,1.53,22,298,0,4 km N,"Hinatuan, Philippines",intermediate,55.0,0,CEA-12,15,0.38
+us6000m2gb,4.3,10,38.7351,38.2618,0,0.0,0.0,none,82.0,0.822,44,284,0,26 km W,"Doğanyol, Turkey",shallow,53.75,0,USGS-WEST,11,0.36
+us6000m2g9,4.6,10,-81.8388,-2.5314,1,2.7,0.0,none,86.0,2.037,57,326,0,104 km WSW,"Salinas, Ecuador",shallow,57.5,0,UNLINKED,0,0.42
+us6000m46v,4.5,10,-179.3277,-65.3009,0,0.0,0.0,none,86.0,13.283,14,312,0,Direct Location,Pacific-Antarctic Ridge,shallow,56.25,0,PNSN-07,7,0.4
+us6000m2g7,4.6,10,-81.9572,-2.4091,1,4.6,0.0,none,85.0,2.2,47,326,0,113 km W,"Salinas, Ecuador",shallow,57.5,0,USGS-WEST,9,0.42
+tx2024anrr,2.5,6.5686,-104.195,31.668,0,0.0,0.0,none,62.0,0.1,25,96,0,54 km NW,"Toyah, Texas",shallow,31.25,0,SCEDC-01,2,0.0
+us6000m46s,4.0,363.136,-178.3103,-26.115,0,0.0,0.0,none,116.0,3.136,25,246,0,south,the Fiji Islands,deep,50.0,0,UNLINKED,0,0.3
+hv73712762,2.75,30.7,-155.398333333333,19.266,1,2.7,0.0,none,93.0,1.382,57,117,0,10 km NE,"Pāhala, Hawaii",shallow,34.38,0,USGS-WEST,4,0.05
+us6000m2fs,5.2,17.148,99.6708,-2.284,0,0.0,0.0,none,116.0,3.874,88,416,0,29 km SSE,"Tuapejat, Indonesia",shallow,65.0,1,CEA-12,6,0.54
+pr2024008000,3.47,34,-66.6205,19.0871,0,0.0,0.0,none,294.0,0.9453,10,185,0,68 km N,"Arecibo, Puerto Rico",shallow,43.38,0,CEA-12,14,0.194
+us7000luc5,3.1,81.475,179.1607,51.6907,0,0.0,0.0,none,138.0,0.325,12,148,0,290 km W,"Adak, Alaska",intermediate,38.75,0,PNSN-07,10,0.12
+us6000m2fl,4.3,159.149,147.4768,-5.6296,0,0.0,0.0,none,91.0,3.764,27,284,0,110 km NNW,"Finschhafen, Papua New Guinea",intermediate,53.75,0,PNSN-07,0,0.36
+pr71436523,2.53,8.28,-66.8555,17.9093333333333,0,0.0,0.0,none,195.0,0.06916,12,98,0,8 km SSE,"Maria Antonia, Puerto Rico",shallow,31.62,0,PNSN-07,9,0.006
+us6000m2fk,5.0,10,145.3365,20.1982,0,0.0,0.0,none,97.0,4.949,91,385,0,Direct Location,"Maug Islands region, Northern Mariana Islands",shallow,62.5,1,CEA-12,3,0.5
+us7000luc2,3.1,33.058,-166.9383,53.1661,0,0.0,0.0,none,208.0,0.629,24,148,0,83 km SSW,"Unalaska, Alaska",shallow,38.75,0,CEA-12,11,0.12
+us6000m46r,4.5,10,125.0215,10.1142,0,0.0,0.0,none,120.0,3.075,27,312,0,5 km SSE,"Malitbog, Philippines",shallow,56.25,0,USGS-WEST,11,0.4
+us6000m46q,4.0,49.865,-173.187,51.6282,0,0.0,0.0,none,77.0,0.849,67,246,0,94 km SE,"Atka, Alaska",shallow,50.0,0,CEA-12,15,0.3
+us6000m46n,4.4,10,141.6484,31.3447,0,0.0,0.0,none,121.0,2.352,36,298,0,Direct Location,"Izu Islands, Japan region",shallow,55.0,0,UNLINKED,0,0.38
+us6000m2f9,4.6,35.31,92.6708,11.7568,2,2.0,0.0,none,136.0,6.809,70,326,0,8 km NW,"Bamboo Flat, India",shallow,57.5,0,SCEDC-01,2,0.42
+tx2024ancu,3.0,6.9542,-104.109,31.62,1,2.2,0.0,none,71.0,0.0,32,139,0,45 km NW,"Toyah, Texas",shallow,37.5,0,SCEDC-01,0,0.1
+tx2024ancv,2.7,8.0854,-104.108,31.616,0,0.0,0.0,none,76.0,0.0,16,112,0,44 km NW,"Toyah, Texas",shallow,33.75,0,CEA-12,0,0.04
+us6000m46m,4.4,10,140.838,40.543,0,0.0,0.0,none,137.0,0.301,35,298,0,20 km NNE,"Kosaka, Japan",shallow,55.0,0,UNLINKED,0,0.38
+hv73712537,3.08,37.26,-155.444166666667,18.9765,2,2.0,0.0,none,223.0,1.382,56,146,0,17 km SE,"Naalehu, Hawaii",shallow,38.5,0,USGS-WEST,15,0.116
+us6000m2ex,4.4,203.026,-66.8338,-24.0864,0,0.0,0.0,none,54.0,1.673,46,298,0,54 km WNW,"San Antonio de los Cobres, Argentina",intermediate,55.0,0,USGS-WEST,9,0.38
+us6000m46l,4.4,66.222,149.6162,-6.1243,0,0.0,0.0,none,127.0,3.182,16,298,0,11 km NE,"Kandrian, Papua New Guinea",shallow,55.0,0,UNLINKED,0,0.38
+us6000m2ev,4.2,10,133.7383,-5.0765,0,0.0,0.0,none,174.0,2.608,13,271,0,125 km ENE,"Tual, Indonesia",shallow,52.5,0,CEA-12,6,0.34
+nc73986296,2.67,4.04,-121.0398333,36.464,1,2.0,0.0,none,116.0,0.01702,67,110,0,12 km SE,"Pinnacles, CA",shallow,33.38,0,SCEDC-01,0,0.034
+us6000m46k,4.5,10,123.9387,12.3343,0,0.0,0.0,none,127.0,17.73,31,312,0,17 km NE,"Miaga, Philippines",shallow,56.25,0,UNLINKED,0,0.4
+ak024d9m8a3,2.5,9.6,-139.3509,62.7929,0,0.0,0.0,none,103.0,1.382,31,96,0,91 km E,"Alcan Border, Alaska",shallow,31.25,0,USGS-WEST,3,0.0
+us6000m46h,4.2,10,95.9661,4.955,0,0.0,0.0,none,170.0,1.014,15,271,0,45 km SW,"Reuleuet, Indonesia",shallow,52.5,0,CEA-12,6,0.34
+us6000m46i,4.1,109.474,128.5936,-7.5969,0,0.0,0.0,none,116.0,5.781,10,259,0,203 km ENE,"Lospalos, Timor Leste",intermediate,51.25,0,USGS-WEST,2,0.32
+us6000m2e8,4.0,158.138,71.0258,36.5241,0,0.0,0.0,none,84.0,2.555,41,246,0,41 km SSE,"Jurm, Afghanistan",intermediate,50.0,0,CEA-12,1,0.3
+nc73986226,2.76,2.61,-121.1591667,40.211,1,2.0,0.0,none,38.0,0.03814,44,117,0,0 km NNW,"Prattville, CA",shallow,34.5,0,SCEDC-01,12,0.052
+us6000m422,4.2,176.879,-174.4412,52.6279,0,0.0,0.0,none,93.0,0.272,49,271,0,50 km NNW,"Atka, Alaska",intermediate,52.5,0,UNLINKED,0,0.34
+tx2024amqs,2.5,7.2242,-104.109,31.618,0,0.0,0.0,none,56.0,0.0,31,96,0,45 km NW,"Toyah, Texas",shallow,31.25,0,USGS-WEST,15,0.0
+us6000m420,4.1,186.701,121.9205,0.2941,0,0.0,0.0,none,110.0,1.398,26,259,0,129 km WSW,"Gorontalo, Indonesia",intermediate,51.25,0,PNSN-07,0,0.32
+ak024bxk9sb,2.9,6.1,-155.6246,56.8555,1,1.0,0.0,none,103.0,1.382,31,129,0,89 km W,"Akhiok, Alaska",shallow,36.25,0,PNSN-07,1,0.08
+us6000m2di,5.1,10,-173.6129,-19.936,0,0.0,0.0,none,44.0,1.332,150,400,0,77 km ESE,"Fangale’ounga, Tonga",shallow,63.75,1,SCEDC-01,6,0.52
+tx2024ampi,2.8,7.2627,-104.169,31.707,0,0.0,0.0,none,53.0,0.1,29,121,0,53 km W,"Mentone, Texas",shallow,35.0,0,CEA-12,4,0.06
+tx2024amog,2.7,6.1316,-104.387,31.64,0,0.0,0.0,none,76.0,0.0,23,112,0,59 km S,"Whites City, New Mexico",shallow,33.75,0,PNSN-07,4,0.04
+us6000m41y,4.2,199.38,-89.9055,14.1237,0,0.0,0.0,none,164.0,0.252,29,271,0,1 km NE,"Comapa, Guatemala",intermediate,52.5,0,PNSN-07,4,0.34
+us6000m2d7,5.5,10,165.3253,-62.3294,0,0.0,0.0,green,120.0,8.533,34,465,0,Direct Location,Balleny Islands region,shallow,68.75,1,UNLINKED,0,0.6
+us6000m2d5,4.4,10,97.2317,39.274,0,0.0,0.0,none,51.0,6.106,54,298,0,75 km SW,"Laojunmiao, China",shallow,55.0,0,CEA-12,13,0.38
+ak024bwcqy1,2.9,156.7,-153.5127,60.0424,0,0.0,0.0,none,103.0,1.382,31,129,0,43 km NE,"Pedro Bay, Alaska",intermediate,36.25,0,UNLINKED,0,0.08
+us7000luhh,3.3,35,178.7758,51.3732,0,0.0,0.0,none,208.0,0.33,12,168,0,Direct Location,"Rat Islands, Aleutian Islands, Alaska",shallow,41.25,0,SCEDC-01,11,0.16
+us6000m2d1,4.2,10,86.6116,27.9221,0,0.0,0.0,none,128.0,0.181,54,271,0,16 km NW,"Namche Bazaar, Nepal",shallow,52.5,0,PNSN-07,1,0.34
+ak024bvn2nn,2.8,147.2,-153.3823,60.0948,0,1.0,0.0,none,103.0,1.382,31,121,0,53 km NE,"Pedro Bay, Alaska",intermediate,35.0,0,PNSN-07,5,0.06
+us6000m41t,4.2,89.349,-174.1121,-16.0135,0,0.0,0.0,none,59.0,3.074,27,271,0,34 km W,"Hihifo, Tonga",intermediate,52.5,0,CEA-12,2,0.34
+us6000m2cv,5.6,10,165.5051,-62.2113,0,0.0,0.0,green,122.0,8.465,31,482,0,Direct Location,Balleny Islands region,shallow,70.0,1,CEA-12,0,0.62
+us6000m2d0,4.6,10,-103.8128,8.2976,0,0.0,0.0,none,191.0,10.531,66,326,0,Direct Location,northern East Pacific Rise,shallow,57.5,0,CEA-12,8,0.42
+tx2024amfs,2.9,7.4941,-104.17,31.708,0,0.0,0.0,none,53.0,0.1,40,129,0,54 km W,"Mentone, Texas",shallow,36.25,0,PNSN-07,1,0.08
+pr71436508,3.25,14.85,-65.9148333333333,17.8838333333333,1,3.4,0.0,none,179.0,0.2,16,163,0,13 km SE,"Lamboglia, Puerto Rico",shallow,40.62,0,USGS-WEST,1,0.15
+us6000m2cb,4.5,10,86.3806,28.0886,0,0.0,0.0,none,106.0,1.016,39,312,0,44 km ENE,"Kodāri̇̄, Nepal",shallow,56.25,0,PNSN-07,6,0.4
+us6000m41p,4.3,10,-103.6598,9.1164,0,0.0,0.0,none,195.0,10.73,23,284,0,Direct Location,northern East Pacific Rise,shallow,53.75,0,USGS-WEST,7,0.36
+us6000m2c9,4.1,10,86.4237,28.0794,0,0.0,0.0,none,121.0,1.05,18,259,0,40 km WNW,"Lobuche, Nepal",shallow,51.25,0,PNSN-07,5,0.32
+tx2024amap,2.5,9.0483,-101.072,32.144,0,0.0,0.0,none,68.0,0.2,37,96,0,24 km SSW,"Westbrook, Texas",shallow,31.25,0,USGS-WEST,0,0.0
+us6000m2cj,4.5,10,-104.3132,8.8928,0,0.0,0.0,none,169.0,10.272,30,312,0,Direct Location,northern East Pacific Rise,shallow,56.25,0,PNSN-07,6,0.4
+us6000m2c4,2.5,5,-88.9485,45.5059,160,3.1,0.0,none,71.0,0.624,14,146,0,3 km NE,"Mole Lake, Wisconsin",shallow,31.25,0,PNSN-07,6,0.0
+pr2024007000,3.6,66,-68.3586,19.1591,0,0.0,0.0,none,191.0,0.6456,12,199,0,64 km N,"Punta Cana, Dominican Republic",shallow,45.0,0,SCEDC-01,14,0.22
+us6000m2c0,4.5,10,136.8656,37.1829,0,0.0,0.0,none,66.0,1.248,86,312,0,6 km SSW,"Anamizu, Japan",shallow,56.25,0,USGS-WEST,8,0.4
+us6000m2da,3.8,35,-163.5003,53.5959,0,0.0,1.0,none,211.0,1.138,54,222,0,140 km S,"False Pass, Alaska",shallow,47.5,0,CEA-12,3,0.26
+us6000m41j,4.3,10,65.6476,3.0316,0,0.0,0.0,none,115.0,15.745,36,284,0,Direct Location,Carlsberg Ridge,shallow,53.75,0,SCEDC-01,0,0.36
+us6000m41l,4.7,10,-30.6802,1.6591,0,0.0,0.0,none,68.0,9.082,27,340,0,Direct Location,central Mid-Atlantic Ridge,shallow,58.75,0,PNSN-07,12,0.44
+us6000m41k,4.1,215.461,126.9851,6.2251,0,0.0,0.0,none,129.0,1.629,32,259,0,90 km E,"Pondaguitan, Philippines",intermediate,51.25,0,SCEDC-01,11,0.32
+us6000m2bw,4.1,10,-139.9091,57.5379,0,0.0,1.0,none,130.0,2.017,58,259,0,223 km WSW,"Elfin Cove, Alaska",shallow,51.25,0,CEA-12,2,0.32
+us6000m41g,4.3,10,65.589,3.133,0,0.0,0.0,none,108.0,8.383,30,284,0,Direct Location,Carlsberg Ridge,shallow,53.75,0,USGS-WEST,7,0.36
+us6000m2bs,4.9,10,122.5443,-1.8154,0,0.0,0.0,none,34.0,0.801,51,369,0,99 km SSW,"Luwuk, Indonesia",shallow,61.25,0,PNSN-07,0,0.48
+tx2024altf,2.9,7.6355,-104.099,31.612,0,0.0,0.0,none,60.0,0.0,32,129,0,43 km NW,"Toyah, Texas",shallow,36.25,0,CEA-12,3,0.08
+pr71436493,3.43,30.34,-67.9816666666667,17.117,0,0.0,0.0,none,281.0,1.214,10,181,0,127 km SW,"Pole Ojea, Puerto Rico",shallow,42.88,0,USGS-WEST,11,0.186
+us6000m2bf,5.3,142.52,-69.1267,-18.2465,0,0.0,0.0,none,58.0,0.735,137,432,0,84 km WSW,"Curahuara de Carangas, Bolivia",intermediate,66.25,1,USGS-WEST,11,0.56
+us6000m41d,4.1,30.335,121.0576,19.2493,0,0.0,0.0,none,114.0,3.55,41,259,0,71 km N,"Claveria, Philippines",shallow,51.25,0,CEA-12,3,0.32
+us6000m41c,3.6,10,-75.9386,6.8916,0,0.0,0.0,none,87.0,0.806,16,199,0,14 km WNW,"Sabanalarga, Colombia",shallow,45.0,0,CEA-12,9,0.22
+us6000m2bd,4.6,171.174,-67.0955,-24.3126,0,0.0,0.0,none,55.0,1.68,49,326,0,79 km W,"San Antonio de los Cobres, Argentina",intermediate,57.5,0,PNSN-07,12,0.42
+us6000m41b,3.3,35,-172.1703,52.0826,0,0.0,0.0,none,211.0,1.186,12,168,0,139 km E,"Atka, Alaska",shallow,41.25,0,SCEDC-01,11,0.16
+us6000m2b9,5.0,10,143.2291,11.9785,1,3.1,0.0,none,70.0,2.263,68,385,0,211 km SW,"Merizo Village, Guam",shallow,62.5,1,PNSN-07,9,0.5
+tx2024almo,3.1,5.7469,-101.622,32.387,1,2.0,0.0,none,51.0,0.0,21,148,0,17 km SSE,"Ackerly, Texas",shallow,38.75,0,PNSN-07,13,0.12
+us6000m2b6,4.8,10,136.7566,37.2146,0,0.0,0.0,none,64.0,1.339,100,354,0,12 km W,"Anamizu, Japan",shallow,60.0,0,SCEDC-01,0,0.46
+ak024bo1buk,4.9,46.3,-151.5376,59.4249,214,4.6,3.464,green,103.0,1.382,31,468,1,8 km SE,"Seldovia Village, Alaska",shallow,61.25,0,PNSN-07,9,0.48
+us6000m2b3,4.5,6.086,137.2619,37.4611,0,0.0,0.0,none,86.0,0.978,59,312,0,40 km NE,"Anamizu, Japan",shallow,56.25,0,CEA-12,0,0.4
+tx2024aljp,2.5,5.2578,-101.622,32.39,0,0.0,0.0,none,50.0,0.0,20,96,0,17 km SSE,"Ackerly, Texas",shallow,31.25,0,PNSN-07,7,0.0
+tx2024algp,2.5,7.7255,-104.174,31.707,0,0.0,0.0,none,55.0,0.1,38,96,0,54 km W,"Mentone, Texas",shallow,31.25,0,SCEDC-01,12,0.0
+us6000m2ap,4.5,67.031,127.8373,4.7913,0,0.0,0.0,none,108.0,3.189,48,312,0,252 km SE,"Pondaguitan, Philippines",shallow,56.25,0,SCEDC-01,12,0.4
+us6000m41a,4.2,10,144.9168,39.2017,0,0.0,0.0,none,205.0,3.113,24,271,0,257 km E,"Yamada, Japan",shallow,52.5,0,USGS-WEST,7,0.34
+us6000m2am,4.1,10,127.4894,-17.4863,1,2.0,0.0,none,63.0,1.864,18,259,0,83 km NNW,"Halls Creek, Australia",shallow,51.25,0,UNLINKED,0,0.32
+us6000m2aj,4.5,10,-84.5587,2.7393,0,0.0,0.0,none,71.0,5.886,35,312,0,off the coast,Central America,shallow,56.25,0,USGS-WEST,11,0.4
+us6000m416,4.4,76.402,94.8723,5.2762,0,0.0,0.0,none,84.0,2.067,40,298,0,58 km WSW,"Banda Aceh, Indonesia",intermediate,55.0,0,CEA-12,9,0.38
+us6000m419,4.4,22.674,147.4004,17.7979,0,0.0,0.0,none,169.0,2.975,35,298,0,Direct Location,Mariana Islands region,shallow,55.0,0,UNLINKED,0,0.38
+us6000m2a6,4.6,10,-82.4658,5.0822,1,3.1,0.0,none,147.0,3.694,44,326,0,south,Panama,shallow,57.5,0,PNSN-07,14,0.42
+us6000m414,4.5,11.127,-61.2719,4.4022,0,0.0,0.0,none,70.0,8.626,40,312,0,28 km SW,"Santa Elena de Uairén, Venezuela",shallow,56.25,0,SCEDC-01,8,0.4
+us6000m2a4,4.3,539.694,120.2764,-7.2091,0,0.0,0.0,none,78.0,2.242,34,284,0,148 km NNE,"Labuan Bajo, Indonesia",deep,53.75,0,PNSN-07,12,0.36
+us7000lu7h,3.4,10,-163.0168,52.449,0,0.0,0.0,none,258.0,2.287,17,178,0,262 km SE,"Akutan, Alaska",shallow,42.5,0,PNSN-07,13,0.18
+us6000m2a0,4.8,10,170.0536,-21.1111,0,0.0,0.0,none,202.0,2.846,26,354,0,191 km SSE,"Isangel, Vanuatu",shallow,60.0,0,CEA-12,13,0.46
+us6000m418,4.8,10,-132.7762,-54.1991,0,0.0,0.0,none,145.0,32.533,24,354,0,Direct Location,Pacific-Antarctic Ridge,shallow,60.0,0,PNSN-07,1,0.46
+us6000m29z,4.6,35,126.9585,8.1321,0,0.0,0.0,none,118.0,1.727,44,326,0,57 km E,"Barcelona, Philippines",shallow,57.5,0,SCEDC-01,5,0.42
+ak024ab4889,3.0,45.5,-151.5353,59.4259,1,2.7,0.0,none,103.0,1.382,31,139,0,8 km SE,"Seldovia Village, Alaska",shallow,37.5,0,SCEDC-01,3,0.1
+us6000m3zk,4.6,10,-172.859,-15.0557,0,0.0,0.0,none,167.0,1.545,16,326,0,141 km NE,"Hihifo, Tonga",shallow,57.5,0,PNSN-07,9,0.42
+us6000m3zj,4.6,10,-172.904,-15.0218,0,0.0,0.0,none,89.0,1.551,20,326,0,140 km NE,"Hihifo, Tonga",shallow,57.5,0,CEA-12,12,0.42
+us6000m29m,4.7,9.72,167.3903,-13.41,0,0.0,0.0,none,69.0,7.696,40,340,0,54 km NNW,"Sola, Vanuatu",shallow,58.75,0,PNSN-07,3,0.44
+us7000lu69,2.8,20.844,179.9315,51.1824,0,0.0,0.0,none,308.0,0.441,10,121,0,250 km WSW,"Adak, Alaska",shallow,35.0,0,PNSN-07,3,0.06
+tx2024akva,2.7,7.2113,-103.791,31.766,1,2.7,0.0,none,42.0,0.1,32,112,0,19 km WNW,"Mentone, Texas",shallow,33.75,0,CEA-12,13,0.04
+us6000m3zg,4.1,629.876,170.4281,-13.9045,0,0.0,0.0,none,102.0,8.836,27,259,0,Direct Location,Vanuatu region,deep,51.25,0,USGS-WEST,10,0.32
+us6000m29c,4.2,38.787,130.6356,-7.115,0,0.0,0.0,none,106.0,2.676,29,271,0,286 km SW,"Tual, Indonesia",shallow,52.5,0,PNSN-07,6,0.34
+us6000m298,4.6,10,-85.5876,16.4016,2,2.7,0.0,none,113.0,2.842,41,326,0,28 km E,"Savannah Bight, Honduras",shallow,57.5,0,USGS-WEST,13,0.42
+us6000m3zf,4.1,285.056,143.0871,21.9207,0,0.0,0.0,none,148.0,5.217,26,259,0,Direct Location,Mariana Islands region,intermediate,51.25,0,PNSN-07,11,0.32
+us6000m3zl,4.0,122.986,144.8081,13.6923,1,2.7,0.0,none,145.0,0.118,11,246,0,19 km NNW,"Yigo Village, Guam",intermediate,50.0,0,PNSN-07,1,0.3
+us6000m3zd,4.3,9.966,130.5464,-4.9819,0,0.0,0.0,none,111.0,0.786,26,284,0,254 km WNW,"Tual, Indonesia",shallow,53.75,0,PNSN-07,11,0.36
+us6000m296,4.9,31.692,-178.581,-31.6517,0,0.0,0.0,none,119.0,2.449,36,369,0,Direct Location,Kermadec Islands region,shallow,61.25,0,PNSN-07,9,0.48
+us6000m3zc,4.0,178.684,145.568,19.3509,0,0.0,0.0,none,100.0,4.093,21,246,0,Direct Location,"Maug Islands region, Northern Mariana Islands",intermediate,50.0,0,PNSN-07,13,0.3
+tx2024akpd,2.7,9.525,-104.104,31.618,0,0.0,0.0,none,56.0,0.0,30,112,0,44 km NW,"Toyah, Texas",shallow,33.75,0,CEA-12,3,0.04
+nc73985821,3.2,7.69,-123.1166667,39.3358333,77,3.5,3.897,none,46.0,0.03867,73,184,0,11 km NE,"Redwood Valley, CA",shallow,40.0,0,PNSN-07,9,0.14
+us6000m3z9,4.6,10,145.1698,20.2699,0,0.0,0.0,none,119.0,5.036,39,326,0,Direct Location,"Maug Islands region, Northern Mariana Islands",shallow,57.5,0,USGS-WEST,13,0.42
+us6000m289,3.6,35,-68.7484,19.1464,0,0.0,0.0,none,177.0,0.718,18,199,0,36 km ENE,"Miches, Dominican Republic",shallow,45.0,0,PNSN-07,13,0.22
+us6000m3z7,4.3,13.38,129.706,-6.2985,0,0.0,0.0,none,153.0,1.775,11,284,0,Direct Location,Banda Sea,shallow,53.75,0,SCEDC-01,4,0.36
+us6000m3zh,4.5,10,127.07,8.8884,0,0.0,0.0,none,129.0,2.333,19,312,0,83 km E,"Aras-asan, Philippines",shallow,56.25,0,UNLINKED,0,0.4
+us7000lu68,3.2,10,-169.3367,52.0384,0,0.0,0.0,none,287.0,0.786,16,158,0,105 km SSW,"Nikolski, Alaska",shallow,40.0,0,CEA-12,11,0.14
+pr71436433,2.92,12.52,-67.5418333333333,18.4811666666667,0,0.0,0.0,none,178.0,0.1131,8,131,0,34 km WNW,"Rincón, Puerto Rico",shallow,36.5,0,CEA-12,0,0.084
+us6000m3ze,4.1,262.727,128.9385,-5.7129,0,0.0,0.0,none,112.0,1.525,18,259,0,238 km SSE,"Ambon, Indonesia",intermediate,51.25,0,SCEDC-01,12,0.32
+us6000m27p,4.5,10,136.6931,37.1993,0,0.0,0.0,none,62.0,1.376,56,312,0,18 km WSW,"Anamizu, Japan",shallow,56.25,0,SCEDC-01,13,0.4
+us6000m3z2,4.4,10,-115.473,-24.2376,0,0.0,0.0,none,144.0,39.574,18,298,0,Direct Location,southern East Pacific Rise,shallow,55.0,0,UNLINKED,0,0.38
+us6000m3zm,4.5,10,65.6569,2.901,0,0.0,0.0,none,90.0,15.599,28,312,0,Direct Location,Carlsberg Ridge,shallow,56.25,0,PNSN-07,12,0.4
+us6000m3z0,4.0,43.529,126.4849,8.9737,0,0.0,0.0,none,128.0,2.094,21,246,0,21 km ENE,"Aras-asan, Philippines",shallow,50.0,0,PNSN-07,6,0.3
+us6000m27f,5.5,10,-116.0254,-24.4019,0,0.0,0.0,green,65.0,6.614,104,465,0,Direct Location,southern East Pacific Rise,shallow,68.75,1,CEA-12,14,0.6
+tx2024akbn,2.6,7.6226,-104.204,31.663,0,0.0,0.0,none,63.0,0.1,34,104,0,54 km NW,"Toyah, Texas",shallow,32.5,0,USGS-WEST,6,0.02
+us6000m278,4.7,10.67,128.7336,-4.4156,0,0.0,0.0,none,40.0,1.172,50,340,0,100 km SE,"Ambon, Indonesia",shallow,58.75,0,USGS-WEST,0,0.44
+us6000m3yx,4.2,10.019,128.6882,-4.4701,0,0.0,0.0,none,117.0,1.214,23,271,0,102 km SSE,"Ambon, Indonesia",shallow,52.5,0,UNLINKED,0,0.34
+us6000m26z,4.4,83.278,-79.7851,-2.2219,3,3.3,0.0,none,137.0,1.167,43,299,0,9 km ESE,"Eloy Alfaro, Ecuador",intermediate,55.0,0,PNSN-07,11,0.38
+us6000m26y,5.6,10,65.4881,3.1484,0,0.0,0.0,green,28.0,8.468,144,482,0,Direct Location,Carlsberg Ridge,shallow,70.0,1,PNSN-07,3,0.62
+us6000m3z8,4.4,10,65.4119,2.9743,0,0.0,0.0,none,85.0,8.612,27,298,0,Direct Location,Carlsberg Ridge,shallow,55.0,0,PNSN-07,0,0.38
+us6000m3yv,4.2,93.13,125.2602,3.96,0,0.0,0.0,none,77.0,3.105,26,271,0,161 km S,"Sarangani, Philippines",intermediate,52.5,0,CEA-12,10,0.34
+us6000m26q,3.0,10,-63.2033,19.1761,0,0.0,0.0,none,236.0,1.127,18,138,0,107 km N,"The Valley, Anguilla",shallow,37.5,0,SCEDC-01,8,0.1
+us6000m26m,4.5,178.778,-70.9002,-14.6337,0,0.0,0.0,none,119.0,3.136,66,312,0,28 km NNW,"Umachiri, Peru",intermediate,56.25,0,SCEDC-01,0,0.4
+pr71436413,3.4,27.43,-66.0103333333333,19.4708333333333,1,2.7,0.0,none,278.0,1.158,16,178,0,111 km N,"San Juan, Puerto Rico",shallow,42.5,0,PNSN-07,11,0.18
+pr71436408,2.75,32.42,-67.4105,18.0118333333333,0,0.0,0.0,none,256.0,0.2864,10,116,0,24 km W,"Pole Ojea, Puerto Rico",shallow,34.38,0,CEA-12,10,0.05
+us6000m3ys,4.4,10,-171.9169,-17.3354,0,0.0,0.0,none,99.0,2.564,18,298,0,252 km SE,"Hihifo, Tonga",shallow,55.0,0,USGS-WEST,7,0.38
+us6000m3z1,4.0,27.82,120.6003,-10.2059,0,0.0,0.0,none,101.0,3.104,16,246,0,71 km SSE,"Waingapu, Indonesia",shallow,50.0,0,CEA-12,1,0.3
+pr71436388,3.34,29.38,-65.1371666666667,18.8043333333333,0,0.0,0.0,none,260.0,0.4811,10,172,0,55 km NNW,"Charlotte Amalie, U.S. Virgin Islands",shallow,41.75,0,PNSN-07,5,0.168
+us6000m3yn,4.4,51.4,-25.4528,-58.3481,0,0.0,0.0,none,131.0,16.253,21,298,0,Direct Location,South Sandwich Islands region,shallow,55.0,0,SCEDC-01,5,0.38
+us7000ltwj,3.4,35,176.149,51.6169,0,0.0,0.0,none,216.0,1.504,10,178,0,244 km SE,"Attu Station, Alaska",shallow,42.5,0,CEA-12,6,0.18
+us6000m3ym,4.3,46.663,126.3537,25.3617,0,0.0,0.0,none,93.0,2.159,38,284,0,122 km ENE,"Hirara, Japan",shallow,53.75,0,SCEDC-01,9,0.36
+pr71436353,3.24,29.41,-66.896,19.2521666666667,0,0.0,0.0,none,312.0,0.8067,10,162,0,84 km N,"Isabela, Puerto Rico",shallow,40.5,0,SCEDC-01,11,0.148
+us6000m3yq,4.4,276.562,-177.5246,-23.5776,0,0.0,0.0,none,124.0,3.218,31,298,0,south,the Fiji Islands,intermediate,55.0,0,CEA-12,4,0.38
+us6000m24z,3.2,10,-104.3424,29.6117,0,0.0,0.0,none,130.0,0.624,28,158,0,6 km NNE,"Presidio, Texas",shallow,40.0,0,CEA-12,8,0.14
+us6000m3yp,4.9,10,154.4015,-6.8277,0,0.0,0.0,none,92.0,3.438,49,369,0,132 km WSW,"Panguna, Papua New Guinea",shallow,61.25,0,PNSN-07,2,0.48
+us6000m3yl,4.5,51.484,141.1473,36.6225,2,2.9,0.0,none,132.0,2.366,38,312,0,39 km ESE,"Takahagi, Japan",shallow,56.25,0,PNSN-07,0,0.4
+us6000m24t,4.8,121.561,71.6036,37.3261,2,4.3,0.0,none,55.0,2.154,76,355,0,18 km SSE,"Khorugh, Tajikistan",intermediate,60.0,0,PNSN-07,0,0.46
+us6000m24p,4.5,10,-81.0475,-1.3156,2,3.1,0.0,none,92.0,2.185,39,312,0,52 km W,"Jipijapa, Ecuador",shallow,56.25,0,CEA-12,7,0.4
+us6000m3yk,4.4,94.924,148.3872,-6.2935,0,0.0,0.0,none,60.0,3.322,29,298,0,66 km ENE,"Finschhafen, Papua New Guinea",intermediate,55.0,0,CEA-12,0,0.38
+tx2024ajcm,2.7,6.8514,-104.505,31.627,0,0.0,0.0,none,75.0,0.0,26,112,0,62 km SSW,"Whites City, New Mexico",shallow,33.75,0,CEA-12,15,0.04
+us6000m3yb,4.3,118.417,167.2155,-14.8921,0,0.0,0.0,none,112.0,6.281,19,284,0,22 km NE,"Port-Olry, Vanuatu",intermediate,53.75,0,PNSN-07,15,0.36
+us7000lu9i,2.6,10,-164.1022,52.5988,0,0.0,0.0,none,252.0,1.834,12,104,0,203 km SSE,"Akutan, Alaska",shallow,32.5,0,CEA-12,15,0.02
+us6000m3y9,4.5,10,-114.0718,-26.3467,0,0.0,0.0,none,78.0,4.224,19,312,0,Direct Location,Easter Island region,shallow,56.25,0,PNSN-07,8,0.4
+us6000m246,4.9,156.201,128.2649,-7.5197,0,0.0,0.0,none,51.0,3.395,96,369,0,178 km NE,"Lospalos, Timor Leste",intermediate,61.25,0,CEA-12,12,0.48
+us6000m3y8,4.3,10,168.1852,-14.8058,0,0.0,0.0,none,209.0,6.815,12,284,0,122 km ENE,"Port-Olry, Vanuatu",shallow,53.75,0,USGS-WEST,6,0.36
+tx2024aizz,2.5,8.034,-104.191,31.669,0,0.0,0.0,none,69.0,0.1,20,96,0,54 km NW,"Toyah, Texas",shallow,31.25,0,PNSN-07,12,0.0
+ak0248muo4k,2.7,29.8,-147.0012,61.2464,0,0.0,0.0,none,103.0,1.382,31,112,0,37 km WNW,"Valdez, Alaska",shallow,33.75,0,PNSN-07,12,0.04
+us6000m23v,4.2,10,137.148,37.2352,0,0.0,0.0,none,77.0,1.091,60,271,0,22 km E,"Anamizu, Japan",shallow,52.5,0,USGS-WEST,6,0.34
+us6000m23r,4.2,47.485,20.5036,39.7428,3,4.6,0.0,none,59.0,1.6,42,273,0,19 km SSW,"Kalpáki, Greece",shallow,52.5,0,USGS-WEST,15,0.34
+tx2024aiyj,3.3,6.8,-104.189,31.677,0,0.0,4.1,none,66.0,0.1,26,168,0,55 km NW,"Toyah, Texas",shallow,41.25,0,SCEDC-01,5,0.16
+ak0248mbkg0,3.1,29.9,-151.7517,58.3808,0,0.0,0.0,none,103.0,1.382,31,148,0,67 km NE,"Ouzinkie, Alaska",shallow,38.75,0,USGS-WEST,7,0.12
+us6000m3yd,4.1,99.128,130.2864,-6.9371,0,0.0,0.0,none,121.0,2.429,14,259,0,Direct Location,Banda Sea,intermediate,51.25,0,PNSN-07,11,0.32
+us6000m22x,5.1,10,136.8266,37.2225,8,3.7,0.0,none,26.0,1.295,213,403,0,6 km W,"Anamizu, Japan",shallow,63.75,1,USGS-WEST,6,0.52
+ak0248lmknb,2.6,16.6,-160.2595,64.5721,0,0.0,0.0,none,103.0,1.382,31,104,0,51 km ENE,"Shaktoolik, Alaska",shallow,32.5,0,CEA-12,15,0.02
+us6000m3yc,4.2,566.396,-177.6768,-18.9599,0,0.0,0.0,none,85.0,3.199,25,271,0,Direct Location,Fiji region,deep,52.5,0,PNSN-07,5,0.34
+us6000m3y5,4.4,19.255,123.0798,-10.16,0,0.0,0.0,none,77.0,5.396,23,298,0,57 km W,"Kupang, Indonesia",shallow,55.0,0,PNSN-07,0,0.38
+ci40455759,4.15,9.11,-117.5088333,34.2583333,12827,5.2,4.906,green,14.0,0.0327,208,785,0,1 km W,"Lytle Creek, CA",shallow,51.88,0,SCEDC-01,8,0.33
+us6000m3y7,4.1,130.359,128.4716,-7.472,0,0.0,0.0,none,61.0,3.258,36,259,0,199 km NE,"Lospalos, Timor Leste",intermediate,51.25,0,CEA-12,1,0.32
+nc73985486,2.71,27.9,-119.8491667,37.352,7,3.4,0.0,none,87.0,0.1077,11,115,0,11 km W,"Ahwahnee, CA",shallow,33.88,0,PNSN-07,0,0.042
+us7000lxgg,2.6,13.262,-169.471,-14.1349,0,0.0,0.0,none,234.0,0.096,4,104,0,11 km NNE,"Ta`ū, American Samoa",shallow,32.5,0,USGS-WEST,4,0.02
+us6000m229,4.5,86.325,153.7007,-5.0457,0,0.0,0.0,none,119.0,1.751,55,312,0,176 km ESE,"Kokopo, Papua New Guinea",intermediate,56.25,0,PNSN-07,2,0.4
+ak0248k0339,2.7,11.8,-141.7211,59.9864,0,0.0,0.0,none,103.0,1.382,31,112,0,122 km WNW,"Yakutat, Alaska",shallow,33.75,0,USGS-WEST,6,0.04
+us6000m21w,4.9,10,136.6794,37.1756,0,0.0,0.0,none,61.0,1.375,70,369,0,20 km WSW,"Anamizu, Japan",shallow,61.25,0,UNLINKED,0,0.48
+us6000m21v,4.7,500.551,179.7373,-24.7291,0,0.0,0.0,none,95.0,4.956,49,340,0,south,the Fiji Islands,deep,58.75,0,CEA-12,0,0.44
+us6000m21u,4.7,85.464,122.847,24.6228,0,0.0,0.0,none,42.0,0.215,64,340,0,23 km NW,"Yonakuni, Japan",intermediate,58.75,0,PNSN-07,7,0.44
+us6000m21h,4.7,10,69.9173,36.9968,0,0.0,0.0,none,95.0,2.886,64,340,0,16 km SSE,"Rustāq, Afghanistan",shallow,58.75,0,PNSN-07,0,0.44
+hv73710367,2.69,34.86,-155.494333333333,19.1925,0,0.0,0.0,none,148.0,1.382,38,111,0,2 km SW,"Pāhala, Hawaii",shallow,33.62,0,PNSN-07,12,0.038
+us7000lu99,2.9,23.221,-168.9804,52.1873,0,0.0,0.0,none,275.0,0.753,14,129,0,84 km S,"Nikolski, Alaska",shallow,36.25,0,CEA-12,12,0.08
+us6000m1z4,4.4,10.204,137.0245,37.3815,0,0.0,0.0,none,75.0,1.178,49,298,0,19 km NE,"Anamizu, Japan",shallow,55.0,0,SCEDC-01,11,0.38
+ak0248gc1jv,2.7,2.7,-157.7709,55.5924,0,0.0,0.0,none,103.0,1.382,31,112,0,87 km SSE,"Chignik, Alaska",shallow,33.75,0,SCEDC-01,8,0.04
+us6000m3xl,4.6,10,115.6294,-49.8703,0,0.0,0.0,none,142.0,16.664,17,326,0,Direct Location,western Indian-Antarctic Ridge,shallow,57.5,0,SCEDC-01,10,0.42
+us6000m3xm,4.2,562.266,-178.6653,-18.1153,0,0.0,0.0,none,126.0,3.146,11,271,0,213 km E,"Levuka, Fiji",deep,52.5,0,SCEDC-01,3,0.34
+us6000m3xj,4.7,10,-116.0717,-24.4963,0,0.0,0.0,none,73.0,6.542,21,340,0,Direct Location,southern East Pacific Rise,shallow,58.75,0,USGS-WEST,10,0.44
+us6000m3xy,4.6,80.556,-27.2535,-55.8936,0,0.0,0.0,none,191.0,5.544,34,326,0,Direct Location,South Sandwich Islands region,intermediate,57.5,0,SCEDC-01,12,0.42
+us6000m3xq,4.3,10,141.498,25.3445,0,0.0,0.0,none,132.0,1.85,27,284,0,Direct Location,"Volcano Islands, Japan region",shallow,53.75,0,CEA-12,12,0.36
+us6000m1yj,2.6,8.982,-81.0177,41.7518,28,4.2,0.0,none,91.0,0.85,12,116,0,3 km SE,"Madison, Ohio",shallow,32.5,0,USGS-WEST,15,0.02
+us6000m3xw,4.5,41.805,125.7796,-0.4947,0,0.0,0.0,none,79.0,2.025,24,312,0,174 km N,"Sanana, Indonesia",shallow,56.25,0,USGS-WEST,7,0.4
+pr71436298,2.84,8.81,-66.9876666666667,17.999,0,0.0,0.0,none,133.0,0.06134,18,124,0,6 km ENE,"La Parguera, Puerto Rico",shallow,35.5,0,SCEDC-01,2,0.068
+us6000m3xh,4.2,142.644,-74.6159,-8.7197,0,0.0,0.0,none,99.0,3.917,19,271,0,11 km ENE,"Honoria, Peru",intermediate,52.5,0,PNSN-07,1,0.34
+us6000m1xt,4.1,272.915,-66.0504,-22.7149,0,0.0,0.0,none,124.0,1.978,32,259,0,36 km W,"Abra Pampa, Argentina",intermediate,51.25,0,PNSN-07,0,0.32
+us6000m1xq,4.5,23.502,129.6334,-7.9732,0,0.0,0.0,none,100.0,3.439,24,312,0,296 km ENE,"Lospalos, Timor Leste",shallow,56.25,0,PNSN-07,1,0.4
+pr71436263,2.73,24.34,-67.4463333333333,18.2556666666667,0,0.0,0.0,none,225.0,0.1318,16,115,0,22 km WSW,"Stella, Puerto Rico",shallow,34.12,0,USGS-WEST,2,0.046
+us6000m3xi,4.6,10,141.7854,32.3484,0,0.0,0.0,none,123.0,1.829,24,326,0,Direct Location,"Izu Islands, Japan region",shallow,57.5,0,CEA-12,8,0.42
+us6000m3xg,4.5,10,-29.2383,0.8641,0,0.0,0.0,none,103.0,9.404,17,312,0,Direct Location,central Mid-Atlantic Ridge,shallow,56.25,0,SCEDC-01,13,0.4
+ak0248dd3g9,3.0,9.4,-147.4256,63.987,0,1.0,0.0,none,103.0,1.382,31,138,0,58 km SW,"Harding-Birch Lakes, Alaska",shallow,37.5,0,CEA-12,12,0.1
+us7000lts6,3.2,10,-179.7991,51.0649,0,0.0,0.0,none,229.0,0.647,13,158,0,237 km WSW,"Adak, Alaska",shallow,40.0,0,PNSN-07,12,0.14
+us6000m1xm,4.3,10,137.7497,37.5439,0,0.0,0.0,none,111.0,0.638,32,284,0,57 km N,"Itoigawa, Japan",shallow,53.75,0,USGS-WEST,0,0.36
+uw61978931,2.7600000000000002,6.67,-121.99183333333333,46.85333333333333,1,3.1,0.0,none,31.0,0.02977,61,118,0,10 km NNE,"Ashford, Washington",shallow,34.5,0,PNSN-07,12,0.052
+us6000m1xk,4.9,100.915,151.6554,-5.1884,0,0.0,0.0,none,94.0,1.113,71,369,0,115 km SW,"Kokopo, Papua New Guinea",intermediate,61.25,0,PNSN-07,15,0.48
+us6000m3xd,4.1,137.128,128.6572,-7.4931,0,0.0,0.0,none,120.0,3.201,12,259,0,215 km ENE,"Lospalos, Timor Leste",intermediate,51.25,0,PNSN-07,2,0.32
+us6000m3xe,4.2,10,151.4276,43.8484,0,0.0,0.0,none,192.0,6.341,23,271,0,east,the Kuril Islands,shallow,52.5,0,CEA-12,0,0.34
+us6000m1wx,4.5,23.237,-73.6087,-36.8638,1,2.7,0.0,none,182.0,0.355,23,312,0,45 km WNW,"Coronel, Chile",shallow,56.25,0,USGS-WEST,3,0.4
+uw61978896,2.99,10.98,-122.31816666666667,46.1995,101,3.8,3.014,none,30.0,0.02338,87,176,0,33 km NNE,"Amboy, Washington",shallow,37.38,0,SCEDC-01,0,0.098
+us6000m3x8,4.4,58.052,162.4567,55.6494,0,0.0,0.0,none,130.0,3.448,63,298,0,64 km S,"Ust’-Kamchatsk Staryy, Russia",shallow,55.0,0,UNLINKED,0,0.38
+us6000m1wi,5.1,10,115.1839,-49.8157,0,0.0,0.0,none,64.0,16.683,62,400,0,Direct Location,western Indian-Antarctic Ridge,shallow,63.75,1,SCEDC-01,11,0.52
+us6000m3x5,4.4,95.259,125.4677,10.991,0,0.0,0.0,none,132.0,12.958,43,298,0,14 km S,"Giporlos, Philippines",intermediate,55.0,0,PNSN-07,8,0.38
+us6000m3x6,4.1,56.37,160.8493,54.2891,0,0.0,0.0,none,131.0,1.823,21,259,0,151 km ESE,"Mil’kovo, Russia",shallow,51.25,0,USGS-WEST,15,0.32
+us6000m3x3,4.2,10,137.6824,37.74,0,0.0,0.0,none,102.0,0.545,31,271,0,67 km WSW,"Sado, Japan",shallow,52.5,0,PNSN-07,9,0.34
+us6000m3x1,4.2,10,127.5533,5.8063,0,0.0,0.0,none,153.0,5.004,20,271,0,164 km ESE,"Pondaguitan, Philippines",shallow,52.5,0,CEA-12,9,0.34
+us6000m1vw,4.1,66.503,-74.3369,-15.5412,0,0.0,0.0,none,149.0,4.29,27,259,0,28 km N,"Atiquipa, Peru",shallow,51.25,0,PNSN-07,3,0.32
+us6000m3x0,4.3,9.973,124.3214,8.7194,0,0.0,0.0,none,119.0,2.059,11,284,0,16 km NW,"Gitagum, Philippines",shallow,53.75,0,PNSN-07,7,0.36
+us6000m1vr,4.5,557.501,-177.5186,-19.3119,0,0.0,0.0,none,47.0,2.853,37,312,0,Direct Location,Fiji region,deep,56.25,0,SCEDC-01,7,0.4
+us6000m1vp,4.1,173.515,-66.985,-24.2518,0,0.0,0.0,none,115.0,1.695,20,259,0,67 km W,"San Antonio de los Cobres, Argentina",intermediate,51.25,0,UNLINKED,0,0.32
+us6000m1vj,4.4,35,131.5187,31.0632,0,0.0,0.0,none,111.0,1.015,59,298,0,53 km SSE,"Kushima, Japan",shallow,55.0,0,PNSN-07,13,0.38
+us6000m1vh,2.5,5,-96.8712,38.3764,6,4.0,0.0,none,93.0,0.737,32,99,0,13 km ENE,"Marion, Kansas",shallow,31.25,0,PNSN-07,3,0.0
+us6000m1vd,4.6,579.91,-177.8563,-18.0465,0,0.0,0.0,none,36.0,3.711,90,326,0,299 km E,"Levuka, Fiji",deep,57.5,0,PNSN-07,2,0.42
+tx2024ahfi,3.0,7.6326,-98.072,28.921,1,4.1,0.0,none,81.0,0.1,13,139,0,8 km SW,"Falls City, Texas",shallow,37.5,0,SCEDC-01,12,0.1
+us6000m1va,4.3,10,149.1508,43.8912,0,0.0,0.0,none,158.0,4.736,39,284,0,179 km SE,"Kuril’sk, Russia",shallow,53.75,0,SCEDC-01,4,0.36
+us7000ltsg,3.0,35,-164.6561,53.5652,0,0.0,0.0,none,222.0,0.881,21,138,0,97 km SE,"Akutan, Alaska",shallow,37.5,0,PNSN-07,8,0.1
+us6000m1v5,4.4,145.851,166.4794,-11.4966,0,0.0,0.0,none,113.0,6.741,43,298,0,113 km SE,"Lata, Solomon Islands",intermediate,55.0,0,UNLINKED,0,0.38
+nm60501518,2.51,3.88,-92.759,36.4128333333333,7,3.8,0.0,none,59.0,0.09486,14,100,0,13 km E,"South Lead Hill, Arkansas",shallow,31.37,0,PNSN-07,7,0.002
+ak0246y310n,2.6,113.2,-152.7851,60.1049,0,0.0,0.0,none,103.0,1.382,31,104,0,61 km WNW,"Happy Valley, Alaska",intermediate,32.5,0,PNSN-07,15,0.02
+us6000m3rz,4.2,10,112.7034,-49.9838,0,0.0,0.0,none,110.0,16.38,18,271,0,Direct Location,southeast Indian Ridge,shallow,52.5,0,PNSN-07,12,0.34
+tx2024agzd,2.6,8.4196,-104.247,31.594,0,0.0,0.0,none,71.0,0.1,17,104,0,53 km NW,"Toyah, Texas",shallow,32.5,0,USGS-WEST,13,0.02
+us7000ltsh,3.1,10,-168.97,52.0143,0,0.0,0.0,none,276.0,0.901,14,148,0,103 km S,"Nikolski, Alaska",shallow,38.75,0,CEA-12,4,0.12
+hv73709867,3.19,33.83,-155.681666666667,19.8541666666667,38,4.1,0.0,none,91.0,1.382,49,172,0,14 km SE,"Waikoloa, Hawaii",shallow,39.88,0,PNSN-07,9,0.138
+us6000m3rx,4.2,10,154.8866,-61.0554,0,0.0,0.0,none,123.0,6.922,14,271,0,Direct Location,Balleny Islands region,shallow,52.5,0,PNSN-07,0,0.34
+us6000m3ru,4.5,10,154.5323,-61.6388,0,0.0,0.0,none,131.0,7.53,26,312,0,Direct Location,Balleny Islands region,shallow,56.25,0,UNLINKED,0,0.4
+tx2024agvj,2.8,8.2396,-103.815,31.999,0,0.0,0.0,none,85.0,0.0,20,121,0,34 km SE,"Malaga, New Mexico",shallow,35.0,0,SCEDC-01,0,0.06
+us6000m3rs,4.5,10,154.5416,-6.8304,0,0.0,0.0,none,94.0,5.946,19,312,0,118 km WSW,"Panguna, Papua New Guinea",shallow,56.25,0,CEA-12,3,0.4
+us6000m1sh,4.7,304.454,117.1072,-7.7606,0,0.0,0.0,none,42.0,1.25,73,340,0,83 km NNW,"Pototano, Indonesia",deep,58.75,0,PNSN-07,14,0.44
+us6000m3rq,4.5,76.334,-177.0524,-25.5985,0,0.0,0.0,none,156.0,3.715,32,312,0,south,the Fiji Islands,intermediate,56.25,0,PNSN-07,0,0.4
+us6000m1s9,4.3,74.438,141.2447,38.8998,0,0.0,0.0,none,189.0,1.892,26,284,0,9 km E,"Ichinoseki, Japan",intermediate,53.75,0,PNSN-07,3,0.36
+us6000m3rv,4.4,10,154.4751,-6.9407,0,0.0,0.0,none,134.0,3.571,18,298,0,131 km WSW,"Panguna, Papua New Guinea",shallow,55.0,0,USGS-WEST,2,0.38
+us6000m1s6,4.6,10,137.0054,37.1426,0,0.0,0.0,none,70.0,1.131,48,326,0,10 km NNE,"Nanao, Japan",shallow,57.5,0,PNSN-07,11,0.42
+pr71436228,3.11,20.31,-66.2363333333333,19.0116666666667,0,0.0,0.0,none,291.0,0.7137,7,149,0,61 km N,"Brenas, Puerto Rico",shallow,38.88,0,SCEDC-01,15,0.122
+us7000ltse,3.6,67.165,-167.7626,53.1266,0,0.0,0.0,none,195.0,0.298,33,199,0,76 km ENE,"Nikolski, Alaska",shallow,45.0,0,SCEDC-01,6,0.22
+us6000m1ry,4.6,10,139.6402,31.4856,0,0.0,0.0,none,120.0,1.632,28,326,0,Direct Location,"Izu Islands, Japan region",shallow,57.5,0,CEA-12,0,0.42
+us6000m1rt,4.6,53.092,-86.8538,11.6331,3,3.1,0.0,none,89.0,0.784,33,326,0,40 km WSW,"Masachapa, Nicaragua",shallow,57.5,0,PNSN-07,13,0.42
+ak0246u7o66,2.6,48.4,-149.7094,60.352,0,0.0,0.0,none,103.0,1.382,31,104,0,16 km SSE,"Cooper Landing, Alaska",shallow,32.5,0,PNSN-07,13,0.02
+us6000m1rn,4.7,39.007,-80.9384,-5.8112,1,2.0,0.0,none,96.0,2.41,42,340,0,30 km SSW,"Sechura, Peru",shallow,58.75,0,CEA-12,14,0.44
+pr71436218,3.43,63.41,-64.5618333333333,18.7093333333333,0,0.0,0.0,none,216.0,0.516,12,181,0,48 km NNE,"Cruz Bay, U.S. Virgin Islands",shallow,42.88,0,CEA-12,10,0.186
+us6000m1ri,4.5,10,137.7241,37.8102,0,0.0,0.0,none,98.0,0.48,44,312,0,60 km WSW,"Sado, Japan",shallow,56.25,0,PNSN-07,8,0.4
+us6000m1rg,4.4,27.678,142.1221,36.1379,0,0.0,0.0,none,143.0,3.185,43,298,0,124 km ENE,"Hasaki, Japan",shallow,55.0,0,USGS-WEST,15,0.38
+us6000m1ps,4.5,10,126.9104,-1.2518,0,0.0,0.0,none,86.0,2.061,33,312,0,93 km SW,"Labuha, Indonesia",shallow,56.25,0,UNLINKED,0,0.4
+us6000m3rl,4.5,10,145.2582,20.0502,0,0.0,0.0,none,121.0,4.81,36,312,0,Direct Location,"Maug Islands region, Northern Mariana Islands",shallow,56.25,0,PNSN-07,4,0.4
+us6000m1pn,4.6,126.23,166.7133,-12.837,0,0.0,0.0,none,114.0,7.448,48,326,0,146 km NW,"Sola, Vanuatu",intermediate,57.5,0,PNSN-07,6,0.42
+us6000m1nn,2.5,14.093,-70.1527,47.7056,0,0.0,0.0,none,115.0,0.196,14,96,0,5 km N,"La Malbaie, Canada",shallow,31.25,0,USGS-WEST,0,0.0
+us6000m1mu,3.0,10,-126.4583,42.3164,0,0.0,0.0,none,291.0,1.565,31,138,0,168 km WSW,"Port Orford, Oregon",shallow,37.5,0,PNSN-07,15,0.1
+ak0246rtw8j,3.5,13.8,-151.4872,63.1331,1,2.0,2.558,none,103.0,1.382,31,189,0,46 km SSE,"Denali National Park, Alaska",shallow,43.75,0,PNSN-07,9,0.2
+us6000m3rj,4.2,10,139.6291,31.4426,0,0.0,0.0,none,134.0,1.675,18,271,0,Direct Location,"Izu Islands, Japan region",shallow,52.5,0,SCEDC-01,2,0.34
+tx2024agfx,2.6,7.0674,-104.546,31.592,0,0.0,0.0,none,88.0,0.1,18,104,0,66 km SSW,"Whites City, New Mexico",shallow,32.5,0,CEA-12,9,0.02
+us6000m1mb,4.5,604.794,-179.1956,-21.5587,0,0.0,0.0,none,49.0,3.741,58,312,0,Direct Location,Fiji region,deep,56.25,0,PNSN-07,7,0.4
+us6000m3s6,4.2,10,115.7903,-49.5349,0,0.0,0.0,none,155.0,16.627,11,271,0,Direct Location,western Indian-Antarctic Ridge,shallow,52.5,0,CEA-12,11,0.34
+us6000m3ri,4.5,10,115.5509,-49.8381,0,0.0,0.0,none,132.0,16.689,19,312,0,Direct Location,western Indian-Antarctic Ridge,shallow,56.25,0,PNSN-07,3,0.4
+us6000m1m7,4.2,200.631,139.5608,42.5943,0,0.0,0.0,none,80.0,2.126,62,271,0,58 km WSW,"Suttsu, Japan",intermediate,52.5,0,CEA-12,0,0.34
+us6000m1m0,4.9,10,137.456,37.6914,2,6.1,0.0,none,91.0,0.723,109,371,0,70 km NE,"Anamizu, Japan",shallow,61.25,0,UNLINKED,0,0.48
+us6000m3rh,4.8,10,139.4944,31.4684,0,0.0,0.0,none,99.0,1.664,23,354,0,Direct Location,"Izu Islands, Japan region",shallow,60.0,0,UNLINKED,0,0.46
+us7000ltmk,2.9,10,-149.7478,56.2561,0,0.0,0.0,none,230.0,2.179,31,129,0,215 km SE,"Chiniak, Alaska",shallow,36.25,0,SCEDC-01,3,0.08
+us6000m1lx,4.7,84.702,126.5607,8.3869,0,0.0,0.0,none,81.0,1.631,59,340,0,25 km E,"Hinatuan, Philippines",intermediate,58.75,0,PNSN-07,9,0.44
+us6000m3re,4.7,10.936,115.2069,-49.7724,0,0.0,0.0,none,117.0,16.728,26,340,0,Direct Location,western Indian-Antarctic Ridge,shallow,58.75,0,USGS-WEST,0,0.44
+us6000m3rd,4.1,29.761,142.4809,37.2404,0,0.0,0.0,none,202.0,3.446,18,259,0,130 km E,"Tomioka, Japan",shallow,51.25,0,CEA-12,8,0.32
+us6000m3rc,4.2,33.172,142.2812,37.2516,0,0.0,0.0,none,157.0,3.657,14,271,0,112 km E,"Tomioka, Japan",shallow,52.5,0,CEA-12,10,0.34
+us6000m1lr,4.5,10,137.3572,37.4636,0,0.0,0.0,none,92.0,0.917,37,312,0,47 km ENE,"Anamizu, Japan",shallow,56.25,0,PNSN-07,0,0.4
+us6000m1lq,4.6,142.382,152.9705,48.3854,0,0.0,0.0,none,104.0,5.599,78,326,0,Direct Location,Kuril Islands,intermediate,57.5,0,PNSN-07,2,0.42
+us6000m1lp,4.4,161.19,127.7754,-7.6299,0,0.0,0.0,none,71.0,3.743,18,298,0,130 km NE,"Lospalos, Timor Leste",intermediate,55.0,0,USGS-WEST,1,0.38
+hv73709502,3.39,7.2,-155.218666666667,19.3156666666667,9,2.5,4.162,none,81.0,1.382,54,179,0,14 km S,"Volcano, Hawaii",shallow,42.38,0,PNSN-07,14,0.178
+us6000m1lm,4.3,128.885,-68.877,-21.2223,0,0.0,0.0,none,57.0,0.597,25,284,0,64 km W,"Ollagüe, Chile",intermediate,53.75,0,CEA-12,14,0.36
+us7000ltmh,2.7,35,-160.9205,54.7298,0,0.0,0.0,none,229.0,0.671,25,112,0,72 km SSW,"Sand Point, Alaska",shallow,33.75,0,PNSN-07,0,0.04
+pr2024004001,3.71,26,-64.359,18.865,0,0.0,0.0,none,333.0,0.7872,12,212,0,74 km NE,"Cruz Bay, U.S. Virgin Islands",shallow,46.38,0,UNLINKED,0,0.242
+us6000m3s4,4.5,5,26.8294,-27.031,0,0.0,0.0,none,98.0,2.293,25,312,0,16 km ESE,"Orkney, South Africa",shallow,56.25,0,SCEDC-01,9,0.4
+us6000m1ld,5.7,197,-176.5067,-21.1187,0,0.0,3.5,green,20.0,1.217,243,500,0,125 km W,"Houma, Tonga",intermediate,71.25,1,UNLINKED,0,0.64
+pr71436188,2.56,15,-66.7306666666667,18.0251666666667,0,0.0,0.0,none,126.0,0.05814,14,101,0,3 km SSW,"Peñuelas, Puerto Rico",shallow,32.0,0,CEA-12,7,0.012
+ci40454935,2.61,17.17,-116.982,33.991,2,2.0,0.0,none,22.0,0.06944,107,105,0,7 km E,"Calimesa, CA",shallow,32.62,0,SCEDC-01,13,0.022
+ak0246oa00j,2.7,155.1,-153.5134,59.9926,0,0.0,0.0,none,103.0,1.382,31,112,0,40 km NE,"Pedro Bay, Alaska",intermediate,33.75,0,SCEDC-01,15,0.04
+us6000m1l2,4.1,107.483,-92.839,15.3131,0,0.0,0.0,none,137.0,0.534,34,259,0,9 km SSW,"El Consuelo Ulapa, Mexico",intermediate,51.25,0,PNSN-07,0,0.32
+us6000m3r9,4.5,49.816,-25.6111,-57.9285,0,0.0,0.0,none,132.0,16.669,17,312,0,Direct Location,South Sandwich Islands region,shallow,56.25,0,PNSN-07,12,0.4
+us6000m3r8,4.4,56.689,151.8793,-5.1577,0,0.0,0.0,none,152.0,1.001,24,298,0,99 km SSW,"Kokopo, Papua New Guinea",shallow,55.0,0,SCEDC-01,13,0.38
+us6000m3r7,4.6,10,128.6075,1.5765,0,0.0,0.0,none,111.0,1.476,29,326,0,68 km ESE,"Tobelo, Indonesia",shallow,57.5,0,SCEDC-01,12,0.42
+hv73709347,2.83,4.88,-155.380333333333,19.3043333333333,0,0.0,0.0,none,96.0,1.382,47,123,0,15 km NE,"Pāhala, Hawaii",shallow,35.38,0,SCEDC-01,6,0.066
+pr2024004000,3.58,68,-68.1836,19.5886,0,0.0,0.0,none,304.0,1.0927,5,197,0,112 km NE,"Miches, Dominican Republic",shallow,44.75,0,CEA-12,8,0.216
+us6000m1kk,5.0,137.491,129.7689,-6.9962,0,0.0,0.0,none,64.0,2.461,142,385,0,Direct Location,Banda Sea,intermediate,62.5,1,SCEDC-01,3,0.5
+us6000m1kd,4.6,606.211,-178.3959,-18.0612,0,0.0,0.0,none,34.0,3.396,171,326,0,242 km E,"Levuka, Fiji",deep,57.5,0,CEA-12,13,0.42
+us6000m1kb,4.6,22.311,141.7438,32.4482,0,0.0,0.0,none,109.0,1.757,69,326,0,Direct Location,"Izu Islands, Japan region",shallow,57.5,0,CEA-12,0,0.42
+uu80034111,3.29,10.03,-110.746,44.5855,9,3.3,0.0,none,56.0,0.07609,24,169,0,29 km ESE,"West Yellowstone, Montana",shallow,41.12,0,USGS-WEST,4,0.158
+us6000m3r5,4.2,125.005,-174.2361,-17.0218,0,0.0,0.0,none,138.0,1.633,20,271,0,127 km SSW,"Hihifo, Tonga",intermediate,52.5,0,SCEDC-01,0,0.34
+us6000m3rb,4.4,50.786,125.6297,-0.336,0,0.0,0.0,none,76.0,2.056,40,298,0,158 km ESE,"Modisi, Indonesia",shallow,55.0,0,UNLINKED,0,0.38
+us7000ltjd,2.7,10.147,-161.1986,54.5812,0,0.0,0.0,none,220.0,0.688,20,112,0,89 km SE,"King Cove, Alaska",shallow,33.75,0,PNSN-07,8,0.04
+us6000m3c2,4.4,45.929,127.2989,4.8183,0,0.0,0.0,none,119.0,2.816,48,298,0,211 km SE,"Pondaguitan, Philippines",shallow,55.0,0,PNSN-07,5,0.38
+us6000m3c1,4.2,9.944,139.7724,31.4911,0,0.0,0.0,none,134.0,1.62,22,271,0,Direct Location,"Izu Islands, Japan region",shallow,52.5,0,SCEDC-01,13,0.34
+us6000m3c0,4.1,10,145.0811,19.9803,0,0.0,0.0,none,171.0,40.865,14,259,0,Direct Location,"Maug Islands region, Northern Mariana Islands",shallow,51.25,0,USGS-WEST,0,0.32
+us6000m1j9,5.0,10,145.3765,19.9265,0,0.0,0.0,none,36.0,4.676,160,385,0,Direct Location,"Maug Islands region, Northern Mariana Islands",shallow,62.5,1,USGS-WEST,0,0.5
+us6000m1j0,4.8,10,145.4694,19.923,0,0.0,0.0,none,35.0,7.749,92,354,0,Direct Location,"Maug Islands region, Northern Mariana Islands",shallow,60.0,0,USGS-WEST,11,0.46
+us6000m1iz,4.7,10,-34.0248,56.3815,0,0.0,0.0,none,53.0,10.438,99,340,0,Direct Location,Reykjanes Ridge,shallow,58.75,0,CEA-12,0,0.44
+us6000m1iu,4.5,50.003,102.8473,-5.1758,0,0.0,0.0,none,92.0,0.817,46,312,0,134 km SSW,"Pagar Alam, Indonesia",shallow,56.25,0,CEA-12,10,0.4
+us6000m1ip,4.3,353.193,140.6645,26.1499,0,0.0,0.0,none,70.0,1.655,110,284,0,Direct Location,"Bonin Islands, Japan region",deep,53.75,0,CEA-12,5,0.36
+us6000m1if,4.9,113.281,-27.8881,-56.0575,0,0.0,0.0,none,45.0,5.24,56,369,0,Direct Location,South Sandwich Islands region,intermediate,61.25,0,UNLINKED,0,0.48
+us6000m1i7,4.0,163.138,74.0407,38.237,0,0.0,0.0,none,69.0,2.144,32,246,0,9 km NE,"Murghob, Tajikistan",intermediate,50.0,0,USGS-WEST,1,0.3
+us6000m1i6,4.8,5.972,137.8096,37.7958,3,2.7,0.0,none,103.0,0.43,135,355,0,54 km WSW,"Sado, Japan",shallow,60.0,0,USGS-WEST,9,0.46
+us6000m1i2,4.3,222.317,100.474,0.708,0,0.0,0.0,none,107.0,2.508,74,284,0,98 km WSW,"Balai Pungut, Indonesia",intermediate,53.75,0,PNSN-07,9,0.36
+us6000m1i0,4.5,17.945,76.7872,33.2551,0,0.0,0.0,none,96.0,2.968,58,312,0,25 km SSW,"Padam, India",shallow,56.25,0,SCEDC-01,6,0.4
+us6000m1hf,5.1,10,27.9066,-52.3954,0,0.0,0.0,none,22.0,20.657,84,400,0,south,Africa,shallow,63.75,1,SCEDC-01,10,0.52
+us6000m3c3,4.1,106.354,141.1233,40.2844,0,0.0,0.0,none,184.0,0.506,17,259,0,15 km WNW,"Ichinohe, Japan",intermediate,51.25,0,PNSN-07,10,0.32
+ak024590iqj,2.7,2,-144.1607,69.4925,0,0.0,0.0,none,103.0,1.382,31,112,0,74 km SSW,"Kaktovik, Alaska",shallow,33.75,0,UNLINKED,0,0.04
+us6000m3bw,4.3,10,141.8616,32.4277,0,0.0,0.0,none,157.0,1.856,26,284,0,Direct Location,"Izu Islands, Japan region",shallow,53.75,0,PNSN-07,11,0.36
+us7000ltji,4.1,10,-132.6435,52.5166,0,0.0,0.0,none,178.0,0.751,12,259,0,252 km SW,"Prince Rupert, Canada",shallow,51.25,0,PNSN-07,7,0.32
+us6000m1fl,4.6,10,137.1541,37.4364,1,2.0,0.0,none,81.0,1.062,110,326,0,31 km NE,"Anamizu, Japan",shallow,57.5,0,USGS-WEST,8,0.42
+ci40454583,2.69,2.99,-115.5651667,33.2146667,0,0.0,0.0,none,93.0,0.05628,49,111,0,5 km WSW,"Niland, CA",shallow,33.62,0,UNLINKED,0,0.038
+us6000m3br,4.4,78.347,126.0296,10.0148,0,0.0,0.0,none,126.0,2.96,29,298,0,1 km WSW,"Santa Monica, Philippines",intermediate,55.0,0,CEA-12,2,0.38
+ci40454551,2.53,2.81,-115.5626667,33.2151667,2,2.0,0.0,none,93.0,0.05819,39,99,0,5 km SW,"Niland, CA",shallow,31.62,0,PNSN-07,0,0.006
+us6000m1fb,3.8,10,137.0154,37.3572,0,0.0,0.0,none,75.0,1.198,53,222,0,17 km NE,"Anamizu, Japan",shallow,47.5,0,USGS-WEST,1,0.26
+us6000m1f8,4.5,10,-111.3862,27.4879,6,3.4,0.0,none,97.0,0.778,77,314,0,62 km SSW,"San Carlos, Mexico",shallow,56.25,0,PNSN-07,8,0.4
+us6000m1f9,4.5,123.757,146.0802,16.9728,0,0.0,0.0,none,108.0,1.745,109,312,0,197 km N,"Saipan, Northern Mariana Islands",intermediate,56.25,0,SCEDC-01,6,0.4
+us6000m1f4,4.0,10,-114.263,31.3134,0,0.0,0.0,none,172.0,0.693,22,246,0,47 km SSE,"Golfo de Santa Clara, Mexico",shallow,50.0,0,PNSN-07,9,0.3
+us6000m3bq,4.7,10,-103.9478,-35.5272,0,0.0,0.0,none,147.0,9.555,24,340,0,southeast,Easter Island,shallow,58.75,0,USGS-WEST,0,0.44
+tx2024aerk,3.1,7.9311,-104.144,31.566,0,0.0,0.0,none,66.0,0.0,22,148,0,43 km NW,"Toyah, Texas",shallow,38.75,0,SCEDC-01,4,0.12
+ak02456czzl,2.8,27,-151.489,58.226,0,0.0,0.0,none,103.0,1.382,31,121,0,68 km ENE,"Ouzinkie, Alaska",shallow,35.0,0,PNSN-07,9,0.06
+us6000m3bn,4.4,79.453,125.0908,5.5484,0,0.0,0.0,none,110.0,1.587,40,298,0,26 km SW,"Burias, Philippines",intermediate,55.0,0,SCEDC-01,8,0.38
+ak02455xzqo,2.9,4.3,-148.4552,67.5719,0,0.0,0.0,none,103.0,1.382,31,129,0,72 km ENE,"Wiseman, Alaska",shallow,36.25,0,UNLINKED,0,0.08
+us6000m1uk,3.0,10,-114.2989,31.3268,0,0.0,0.0,none,167.0,0.554,30,138,0,44 km SSE,"Golfo de Santa Clara, Mexico",shallow,37.5,0,USGS-WEST,11,0.1
+us6000m3bk,4.5,10,28.1043,-52.2827,0,0.0,0.0,none,108.0,20.586,16,312,0,south,Africa,shallow,56.25,0,PNSN-07,11,0.4
+us6000m1ei,4.4,10,141.825,33.6836,0,0.0,0.0,none,132.0,1.775,26,298,0,213 km SE,"Katsuura, Japan",shallow,55.0,0,CEA-12,15,0.38
+us6000m1eg,4.4,10,-22.0235,64.1369,2,4.4,0.0,none,81.0,0.683,61,299,0,2 km SW,"Seltjarnarnes, Iceland",shallow,55.0,0,PNSN-07,13,0.38
+us6000m1ed,3.3,10,-114.3575,31.3512,0,0.0,0.0,none,69.0,0.526,36,168,0,39 km SSE,"Golfo de Santa Clara, Mexico",shallow,41.25,0,SCEDC-01,15,0.16
+us6000m3bj,4.2,10,136.7757,37.1549,0,0.0,0.0,none,91.0,1.297,23,271,0,14 km SW,"Anamizu, Japan",shallow,52.5,0,PNSN-07,6,0.34
+us6000m1uf,2.7,10,-114.3433,31.3644,0,0.0,0.0,none,144.0,0.543,31,112,0,38 km SSE,"Golfo de Santa Clara, Mexico",shallow,33.75,0,SCEDC-01,1,0.04
+us7000ltdm,3.1,35,-164.5884,53.4419,0,0.0,0.0,none,220.0,1.034,17,148,0,109 km SE,"Akutan, Alaska",shallow,38.75,0,SCEDC-01,8,0.12
+us6000m1e1,4.5,39.683,142.7952,39.1672,0,0.0,0.0,none,176.0,2.096,26,312,0,80 km ESE,"Yamada, Japan",shallow,56.25,0,PNSN-07,5,0.4
+us6000m1dz,4.7,10,136.9172,37.3248,0,0.0,0.0,none,70.0,1.281,111,340,0,10 km N,"Anamizu, Japan",shallow,58.75,0,SCEDC-01,11,0.44
+pr2024003000,3.72,48,-64.627,19.1125,0,0.0,0.0,none,317.0,0.8284,5,213,0,88 km NNE,"Cruz Bay, U.S. Virgin Islands",shallow,46.5,0,SCEDC-01,10,0.244
+us6000m1dx,4.9,134.748,71.4376,36.6249,0,0.0,0.0,none,59.0,2.852,111,369,0,10 km SW,"Ashkāsham, Afghanistan",intermediate,61.25,0,UNLINKED,0,0.48
+us6000m1hg,3.7,53.983,-168.5749,52.8872,0,0.0,2.379,none,170.0,0.532,43,211,0,20 km ESE,"Nikolski, Alaska",shallow,46.25,0,CEA-12,5,0.24
+us6000m3bp,4.4,97.778,123.6555,-0.248,0,0.0,0.0,none,49.0,1.184,25,298,0,109 km SE,"Gorontalo, Indonesia",intermediate,55.0,0,PNSN-07,5,0.38
+us6000m1cl,4.5,114.237,-68.8772,-21.4626,0,0.0,0.0,none,44.0,0.475,53,312,0,69 km WSW,"Ollagüe, Chile",intermediate,56.25,0,PNSN-07,9,0.4
+us6000m3bf,4.3,10,137.7262,37.742,0,0.0,0.0,none,104.0,0.515,26,284,0,63 km WSW,"Sado, Japan",shallow,53.75,0,CEA-12,12,0.36
+us6000m1cj,4.6,10,167.9629,-17.5587,3,3.1,0.0,none,182.0,4.577,33,326,0,42 km WNW,"Port-Vila, Vanuatu",shallow,57.5,0,USGS-WEST,0,0.42
+us6000m1ci,4.2,5,16.2446,51.4814,1,4.6,0.0,none,55.0,1.134,32,272,0,3 km SSW,"Rudna, Poland",shallow,52.5,0,PNSN-07,0,0.34
+us6000m1cg,5.5,117,-68.8167,-28.4508,0,0.0,3.806,green,29.0,1.743,124,465,0,68 km WNW,"Vinchina, Argentina",intermediate,68.75,1,CEA-12,9,0.6
+us6000m1cd,4.1,10.746,136.9617,37.2985,0,0.0,0.0,none,72.0,1.247,29,259,0,9 km NE,"Anamizu, Japan",shallow,51.25,0,CEA-12,8,0.32
+us6000m3be,4.5,10,136.6719,7.629,0,0.0,0.0,none,133.0,11.369,36,312,0,221 km ESE,"Kayangel, Palau",shallow,56.25,0,USGS-WEST,0,0.4
+us6000m1cc,4.5,100.109,152.2132,-4.554,0,0.0,0.0,none,91.0,0.364,40,312,0,24 km SSW,"Kokopo, Papua New Guinea",intermediate,56.25,0,USGS-WEST,15,0.4
+us6000m3bc,4.2,555.332,-177.7672,-20.131,0,0.0,0.0,none,79.0,2.614,19,271,0,281 km WNW,"Houma, Tonga",deep,52.5,0,PNSN-07,3,0.34
+us6000m1c9,4.1,52.261,-170.5282,52.3562,0,0.0,1.103,none,141.0,0.607,51,259,0,130 km WSW,"Nikolski, Alaska",shallow,51.25,0,PNSN-07,8,0.32
+us6000m1c2,4.3,422.64,120.1047,-7.4041,0,0.0,0.0,none,46.0,2.4,52,284,0,123 km N,"Labuan Bajo, Indonesia",deep,53.75,0,SCEDC-01,4,0.36
+pr71436073,2.77,14.23,-66.8631666666667,17.8738333333333,0,0.0,0.0,none,244.0,0.1018,7,118,0,11 km SSE,"Guánica, Puerto Rico",shallow,34.62,0,PNSN-07,7,0.054
+us6000m3b7,4.2,9.781,137.4428,37.5186,0,0.0,0.0,none,112.0,0.829,27,271,0,57 km ENE,"Anamizu, Japan",shallow,52.5,0,UNLINKED,0,0.34
+us6000m3b8,4.3,535.45,-178.4722,-21.1327,0,0.0,0.0,none,93.0,3.051,22,284,0,Direct Location,Fiji region,deep,53.75,0,CEA-12,3,0.36
+us6000m3b6,4.2,10,127.722,5.3784,0,0.0,0.0,none,160.0,2.713,24,271,0,202 km ESE,"Pondaguitan, Philippines",shallow,52.5,0,PNSN-07,0,0.34
+us6000m3b5,4.2,659.944,-179.8,-22.2967,0,0.0,0.0,none,118.0,4.418,16,271,0,south,the Fiji Islands,deep,52.5,0,CEA-12,15,0.34
+pr71436063,2.55,8.12,-66.6548333333333,17.9546666666667,1,2.7,0.0,none,154.0,0.09911,8,100,0,6 km SSW,"Ponce, Puerto Rico",shallow,31.87,0,PNSN-07,0,0.01
+ak024511t55,2.5,63.9,-149.7797,62.7046,0,0.0,0.0,none,103.0,1.382,31,96,0,32 km NNE,"Chase, Alaska",shallow,31.25,0,PNSN-07,3,0.0
+us6000m3b4,4.2,12.714,137.493,37.6306,0,0.0,0.0,none,96.0,0.73,23,271,0,68 km NE,"Anamizu, Japan",shallow,52.5,0,USGS-WEST,6,0.34
+us6000m1bt,4.9,15.237,137.559,37.6257,0,0.0,0.0,none,50.0,0.69,94,369,0,70 km NNW,"Itoigawa, Japan",shallow,61.25,0,PNSN-07,10,0.48
+us6000m3bg,4.0,10,136.7204,37.2477,0,0.0,0.0,none,63.0,1.38,26,246,0,16 km W,"Anamizu, Japan",shallow,50.0,0,SCEDC-01,15,0.3
+ci40454359,2.85,2.02,-115.9555,33.6956667,1,2.0,0.0,none,35.0,0.04963,72,125,0,18 km NE,"Mecca, CA",shallow,35.62,0,SCEDC-01,1,0.07
+us6000m1bp,4.5,122.106,-69.4112,-18.9782,0,0.0,0.0,none,96.0,0.717,25,312,0,37 km N,"Camiña, Chile",intermediate,56.25,0,SCEDC-01,3,0.4
+tx2024adxi,3.5,9.0109,-103.949,31.598,1,2.0,0.0,none,54.0,0.0,17,189,0,34 km NNW,"Toyah, Texas",shallow,43.75,0,PNSN-07,4,0.2
+us6000m3a8,4.1,11.819,137.337,37.4095,0,0.0,0.0,none,89.0,0.964,22,259,0,43 km ENE,"Anamizu, Japan",shallow,51.25,0,SCEDC-01,3,0.32
+us6000m1bm,4.6,10,121.9592,1.9692,0,0.0,0.0,none,104.0,1.453,41,326,0,200 km NW,"Gorontalo, Indonesia",shallow,57.5,0,USGS-WEST,1,0.42
+us6000m1bj,5.3,10,136.9204,37.3466,3,2.2,0.0,none,29.0,1.266,128,433,0,12 km N,"Anamizu, Japan",shallow,66.25,1,SCEDC-01,6,0.56
+us6000m1bf,4.0,25.874,121.5279,23.5964,0,0.0,0.0,none,132.0,0.293,38,246,0,42 km S,"Hualien City, Taiwan",shallow,50.0,0,CEA-12,13,0.3
+us6000m1bg,5.2,61.922,145.9632,-5.5053,4,5.4,0.0,none,26.0,4.052,103,418,0,36 km SSE,"Madang, Papua New Guinea",shallow,65.0,1,CEA-12,0,0.54
+ak0244zcpdy,2.8,4.6,-156.1897,67.3661,2,2.0,0.0,none,103.0,1.382,31,121,0,59 km NNE,"Kobuk, Alaska",shallow,35.0,0,SCEDC-01,11,0.06
+us6000m1b7,5.0,76.597,126.5376,8.3515,2,2.7,0.0,none,67.0,1.589,110,385,0,22 km E,"Hinatuan, Philippines",intermediate,62.5,1,PNSN-07,7,0.5
+us6000m1at,2.5,35,-67.8049,19.1706,0,0.0,0.0,none,210.0,0.851,12,96,0,90 km NE,"Punta Cana, Dominican Republic",shallow,31.25,0,SCEDC-01,15,0.0
+us6000m1ar,4.8,98.951,106.3106,-7.3086,9,6.4,0.0,none,107.0,1.337,104,360,0,44 km SW,"Pelabuhanratu, Indonesia",intermediate,60.0,0,PNSN-07,0,0.46
+us6000m3a5,4.0,230.867,145.1053,20.1794,0,0.0,0.0,none,148.0,4.962,18,246,0,Direct Location,"Maug Islands region, Northern Mariana Islands",intermediate,50.0,0,CEA-12,11,0.3
+pr71436048,2.79,13.92,-67.044,18.0068333333333,0,0.0,0.0,none,89.0,0.0372,26,120,0,3 km N,"La Parguera, Puerto Rico",shallow,34.88,0,UNLINKED,0,0.058
+us7000lt9q,3.5,35,-166.8865,53.1731,0,0.0,0.0,none,205.0,0.621,17,188,0,81 km SSW,"Unalaska, Alaska",shallow,43.75,0,PNSN-07,11,0.2
+us6000m1ae,5.0,188.635,-66.6178,-23.3669,0,0.0,0.0,none,43.0,1.495,142,385,0,97 km W,"El Aguilar, Argentina",intermediate,62.5,1,SCEDC-01,0,0.5
+ak0243oi2c0,2.8,104.3,-152.0696,62.1568,0,0.0,0.0,none,103.0,1.382,31,121,0,39 km WNW,"Skwentna, Alaska",intermediate,35.0,0,PNSN-07,0,0.06
+us6000m3b2,3.8,10,171.3672,51.9017,0,0.0,0.0,none,220.0,1.871,12,222,0,162 km SW,"Attu Station, Alaska",shallow,47.5,0,UNLINKED,0,0.26
+ak0243nupkg,3.0,46.2,-152.2552,57.4958,0,0.0,0.0,none,103.0,1.382,31,138,0,12 km S,"Chiniak, Alaska",shallow,37.5,0,CEA-12,8,0.1
+us7000lt9p,3.2,10,-163.9222,52.6927,0,0.0,0.0,none,249.0,1.821,19,158,0,202 km SE,"Akutan, Alaska",shallow,40.0,0,SCEDC-01,2,0.14
+us6000m1a4,4.3,10,136.8443,37.2018,0,0.0,0.0,none,67.0,1.272,27,284,0,6 km SW,"Anamizu, Japan",shallow,53.75,0,UNLINKED,0,0.36
+pr2024002001,3.3,6,-66.9813,17.9466,1,3.8,0.0,none,217.0,0.0669,13,168,0,7 km ESE,"La Parguera, Puerto Rico",shallow,41.25,0,USGS-WEST,14,0.16
+us6000m3az,4.1,56.385,120.1791,17.0658,0,0.0,0.0,none,156.0,6.217,11,259,0,28 km WSW,"Calongbuyan, Philippines",shallow,51.25,0,PNSN-07,0,0.32
+us6000m18z,5.0,47.706,120.1731,17.1111,3,3.8,0.0,none,35.0,5.741,161,386,0,27 km WSW,"Calongbuyan, Philippines",shallow,62.5,1,PNSN-07,15,0.5
+us6000m18t,4.9,10,-31.0085,2.6339,0,0.0,0.0,none,44.0,9.722,49,369,0,Direct Location,central Mid-Atlantic Ridge,shallow,61.25,0,SCEDC-01,6,0.48
+tx2024adia,2.7,8.0701,-100.648,32.752,0,0.0,0.0,none,80.0,0.1,25,112,0,16 km NE,"Hermleigh, Texas",shallow,33.75,0,USGS-WEST,0,0.04
+us6000m18n,4.3,101.737,71.5341,36.5332,0,0.0,0.0,none,60.0,2.842,56,284,0,16 km S,"Ashkāsham, Afghanistan",intermediate,53.75,0,PNSN-07,7,0.36
+ak0243m3is4,3.9,20.3,-171.6799,63.1789,0,0.0,0.0,none,103.0,1.382,31,234,0,66 km S,"Gambell, Alaska",shallow,48.75,0,PNSN-07,10,0.28
+us6000m3b0,4.3,10,-172.6614,-18.0686,0,0.0,0.0,none,93.0,1.396,12,284,0,153 km ENE,"Neiafu, Tonga",shallow,53.75,0,PNSN-07,4,0.36
+us6000m3av,4.0,10,-175.8191,-26.1134,0,0.0,0.0,none,161.0,3.637,12,246,0,south,Tonga,shallow,50.0,0,PNSN-07,7,0.3
+us6000m182,4.2,10,137.3268,37.4779,0,0.0,0.0,none,89.0,0.927,72,271,0,46 km NE,"Anamizu, Japan",shallow,52.5,0,PNSN-07,15,0.34
+tx2024aded,2.5,7.5712,-104.233,31.642,0,0.0,0.0,none,66.0,0.0,18,96,0,55 km NW,"Toyah, Texas",shallow,31.25,0,CEA-12,5,0.0
+us6000m17v,4.8,10,137.3192,37.4797,2,2.5,0.0,none,35.0,0.93,124,355,0,46 km NE,"Anamizu, Japan",shallow,60.0,0,UNLINKED,0,0.46
+us7000lt9m,3.0,32.102,-177.4989,51.4042,0,0.0,0.0,none,213.0,0.394,18,138,0,79 km SW,"Adak, Alaska",shallow,37.5,0,PNSN-07,6,0.1
+us7000lt9r,2.8,35,178.6321,51.269,0,0.0,0.0,none,278.0,0.434,11,121,0,Direct Location,"Rat Islands, Aleutian Islands, Alaska",shallow,35.0,0,USGS-WEST,0,0.06
+us7000lt9l,2.9,94.571,-176.484,51.9867,0,0.0,0.0,none,162.0,0.134,17,129,0,16 km NE,"Adak, Alaska",intermediate,36.25,0,PNSN-07,3,0.08
+tx2024aczj,2.7,6.9028,-104.143,31.562,0,0.0,0.0,none,66.0,0.0,21,112,0,43 km NW,"Toyah, Texas",shallow,33.75,0,PNSN-07,3,0.04
+us6000m3au,4.3,519.465,-179.6601,-23.674,0,0.0,0.0,none,105.0,4.817,31,284,0,south,the Fiji Islands,deep,53.75,0,SCEDC-01,7,0.36
+tx2024acyz,2.5,9.2439,-102.607,32.21,0,0.0,0.0,none,53.0,0.1,19,96,0,12 km SW,"McKinney Acres, Texas",shallow,31.25,0,USGS-WEST,14,0.0
+us6000m16b,4.6,188.353,-66.7435,-24.0309,0,0.0,0.0,none,43.0,1.7,103,326,0,47 km WNW,"San Antonio de los Cobres, Argentina",intermediate,57.5,0,CEA-12,13,0.42
+us6000m1k5,2.9,4.976,178.2754,52.0256,0,0.0,0.0,none,169.0,0.158,11,129,0,Direct Location,"Rat Islands, Aleutian Islands, Alaska",shallow,36.25,0,SCEDC-01,1,0.08
+ci40454063,2.56,13.47,-116.5103333,33.494,2,3.4,0.0,none,26.0,0.06564,105,102,0,17 km ESE,"Anza, CA",shallow,32.0,0,PNSN-07,3,0.012
+tx2024acxf,2.6,9.3173,-100.657,32.735,0,0.0,0.0,none,81.0,0.1,13,104,0,14 km NE,"Hermleigh, Texas",shallow,32.5,0,CEA-12,14,0.02
+us6000m3ax,4.4,10,-56.0977,-61.268,0,0.0,0.0,none,118.0,1.56,17,298,0,Direct Location,South Shetland Islands,shallow,55.0,0,PNSN-07,3,0.38
+us6000m3ar,4.6,23.865,-25.4691,-59.4451,0,0.0,0.0,none,91.0,15.273,30,326,0,Direct Location,South Sandwich Islands region,shallow,57.5,0,USGS-WEST,2,0.42
+us6000m160,4.4,10,137.0659,37.267,0,0.0,0.0,none,76.0,1.162,60,298,0,15 km ENE,"Anamizu, Japan",shallow,55.0,0,PNSN-07,8,0.38
+us6000m3aq,4.5,10,-179.7098,-36.3515,0,0.0,0.0,none,181.0,1.996,27,312,0,224 km NE,"Hicks Bay, New Zealand",shallow,56.25,0,UNLINKED,0,0.4
+us6000m3an,4.4,10,137.5358,37.6834,0,0.0,0.0,none,105.0,0.673,36,298,0,75 km NE,"Anamizu, Japan",shallow,55.0,0,PNSN-07,0,0.38
+us6000m3al,4.1,470.098,-179.4718,-24.302,0,0.0,0.0,none,103.0,5.024,25,259,0,south,the Fiji Islands,deep,51.25,0,USGS-WEST,1,0.32
+us6000m142,4.4,10,137.2443,37.4619,0,0.0,0.0,none,85.0,0.989,43,298,0,39 km NE,"Anamizu, Japan",shallow,55.0,0,SCEDC-01,4,0.38
+us6000m13z,4.4,76.114,124.3056,24.8206,1,2.0,0.0,none,80.0,0.444,73,298,0,43 km WNW,"Tarama, Japan",intermediate,55.0,0,CEA-12,8,0.38
+us6000m13v,4.3,113.199,-69.3397,-27.6184,0,0.0,0.0,none,67.0,1.437,23,284,0,101 km ESE,"Copiapó, Chile",intermediate,53.75,0,PNSN-07,8,0.36
+us6000m13s,4.3,10,137.7365,37.5934,0,0.0,0.0,none,105.0,0.607,42,284,0,62 km N,"Itoigawa, Japan",shallow,53.75,0,USGS-WEST,9,0.36
+us6000m13r,4.3,10,42.878,42.5415,0,0.0,0.0,none,38.0,1.187,37,284,0,23 km W,"Ambrolauri, Georgia",shallow,53.75,0,UNLINKED,0,0.36
+us6000m13q,4.6,7.453,136.7367,37.1175,0,0.0,0.0,none,62.0,1.308,74,326,0,19 km SW,"Anamizu, Japan",shallow,57.5,0,CEA-12,5,0.42
+us6000m13n,4.3,10,-6.4003,31.9412,13,2.9,0.0,none,58.0,1.245,63,288,0,26 km N,"Ifrane, Morocco",shallow,53.75,0,USGS-WEST,8,0.36
+us6000m13h,4.8,10,136.7831,37.1828,0,0.0,0.0,none,64.0,1.305,65,354,0,11 km WSW,"Anamizu, Japan",shallow,60.0,0,CEA-12,2,0.46
+us6000m13m,4.3,10,175.9819,-16.6564,0,0.0,0.0,none,59.0,2.256,39,284,0,188 km NW,"Lautoka, Fiji",shallow,53.75,0,UNLINKED,0,0.36
+us6000m13d,4.4,8.149,137.6442,37.7961,0,0.0,0.0,none,95.0,0.542,35,298,0,67 km WSW,"Sado, Japan",shallow,55.0,0,UNLINKED,0,0.38
+us6000m3ap,4.5,10,141.667,32.3606,0,0.0,0.0,none,135.0,1.734,35,312,0,Direct Location,"Izu Islands, Japan region",shallow,56.25,0,PNSN-07,0,0.4
+ak0243edqm4,3.6,18.4,-146.8454,61.2922,17,3.8,3.019,none,103.0,1.382,31,206,0,32 km WNW,"Valdez, Alaska",shallow,45.0,0,SCEDC-01,14,0.22
+us6000m3ae,4.3,10,-177.8599,-31.4952,0,0.0,0.0,none,181.0,2.226,14,284,0,Direct Location,Kermadec Islands region,shallow,53.75,0,PNSN-07,0,0.36
+us6000m12z,4.5,10,28.1431,-7.4185,0,0.0,0.0,none,97.0,7.249,31,312,0,199 km SW,"Kalemie, Democratic Republic of the Congo",shallow,56.25,0,SCEDC-01,14,0.4
+us6000m12y,4.9,35,123.7618,-10.1167,0,0.0,0.0,none,78.0,6.042,42,369,0,17 km ENE,"Kupang, Indonesia",shallow,61.25,0,PNSN-07,12,0.48
+us7000lt42,2.5,83.321,-163.6283,54.1289,0,0.0,0.0,none,211.0,0.71,22,96,0,81 km S,"False Pass, Alaska",intermediate,31.25,0,USGS-WEST,1,0.0
+us6000m3ad,4.2,216.608,-27.189,-58.2027,0,0.0,0.0,none,123.0,16.791,14,271,0,Direct Location,South Sandwich Islands region,intermediate,52.5,0,PNSN-07,6,0.34
+pr2024002000,3.85,75,-64.066,18.0806,1,2.2,0.0,none,172.0,0.7366,18,228,0,77 km ENE,"Christiansted, U.S. Virgin Islands",intermediate,48.12,0,PNSN-07,9,0.27
+us7000lt41,2.6,25.799,-165.4358,53.5609,0,0.0,0.0,none,215.0,0.613,18,104,0,67 km SSE,"Akutan, Alaska",shallow,32.5,0,USGS-WEST,4,0.02
+us7000lt40,3.1,35,-175.2357,51.4836,0,0.0,0.0,none,238.0,0.661,17,148,0,106 km ESE,"Adak, Alaska",shallow,38.75,0,PNSN-07,9,0.12
+us6000m12r,4.1,35,-87.0458,11.7458,1,4.7,0.0,none,107.0,0.877,50,259,0,58 km W,"Masachapa, Nicaragua",shallow,51.25,0,PNSN-07,15,0.32
+us6000m12p,4.6,10,127.2178,8.8429,0,0.0,0.0,none,130.0,2.395,40,326,0,99 km E,"Aras-asan, Philippines",shallow,57.5,0,CEA-12,5,0.42
+us6000m3ac,4.3,605.492,-179.1513,-17.5765,0,0.0,0.0,none,92.0,5.013,31,284,0,171 km ENE,"Levuka, Fiji",deep,53.75,0,PNSN-07,15,0.36
+ak0243cd25b,2.6,92.5,-152.4915,60.1441,0,0.0,0.0,none,103.0,1.382,31,104,0,46 km WNW,"Ninilchik, Alaska",intermediate,32.5,0,CEA-12,5,0.02
+us6000m12f,5.4,6,136.7689,37.247,1,2.0,6.735,green,26.0,1.347,619,449,0,11 km W,"Anamizu, Japan",shallow,67.5,1,CEA-12,15,0.58
+us6000m3ab,4.5,10,167.2247,-17.1743,0,0.0,0.0,none,144.0,4.361,16,312,0,120 km S,"Lakatoro, Vanuatu",shallow,56.25,0,SCEDC-01,9,0.4
+ak0243bd9h9,2.5,5.1,-151.4591,63.4037,0,0.0,0.0,none,103.0,1.382,31,96,0,20 km SE,"Denali National Park, Alaska",shallow,31.25,0,PNSN-07,7,0.0
+us7000lt3y,2.8,28.131,-177.6429,50.8367,0,0.0,0.0,none,247.0,0.934,17,121,0,135 km SSW,"Adak, Alaska",shallow,35.0,0,UNLINKED,0,0.06
+us6000m128,4.4,10,137.2441,37.4192,0,0.0,0.0,none,84.0,1.015,108,298,0,36 km NE,"Anamizu, Japan",shallow,55.0,0,PNSN-07,4,0.38
+us6000m129,4.1,8.671,136.9426,37.4545,0,0.0,0.0,none,78.0,1.195,21,259,0,24 km N,"Anamizu, Japan",shallow,51.25,0,PNSN-07,0,0.32
+ak02421e681,3.2,4.4,-157.3843,54.3122,0,0.0,0.0,none,103.0,1.382,31,158,0,210 km SSE,"Perryville, Alaska",shallow,40.0,0,CEA-12,5,0.14
+us6000m120,4.7,134.512,129.8294,-6.9605,0,0.0,0.0,none,82.0,2.423,79,340,0,Direct Location,Banda Sea,intermediate,58.75,0,UNLINKED,0,0.44
+us6000m11t,4.3,10,137.1121,37.4319,0,0.0,0.0,none,79.0,1.092,41,284,0,28 km NE,"Anamizu, Japan",shallow,53.75,0,PNSN-07,1,0.36
+us6000m11s,4.5,15.301,136.9617,37.3362,0,0.0,0.0,none,72.0,1.245,76,312,0,12 km NNE,"Anamizu, Japan",shallow,56.25,0,CEA-12,6,0.4
+us6000m353,4.0,7.958,137.1529,37.3845,0,0.0,0.0,none,95.0,1.093,11,246,0,28 km NE,"Anamizu, Japan",shallow,50.0,0,PNSN-07,0,0.3
+us6000m11n,4.5,82.85,95.4358,26.0489,0,0.0,0.0,none,90.0,4.82,77,312,0,65 km ESE,"Tuensang, India",intermediate,56.25,0,SCEDC-01,4,0.4
+us6000m352,4.1,198.549,145.3811,19.1752,0,0.0,0.0,none,122.0,3.932,23,259,0,Direct Location,"Maug Islands region, Northern Mariana Islands",intermediate,51.25,0,SCEDC-01,15,0.32
+us6000m118,4.0,65.491,-165.3445,53.9358,0,0.0,2.049,none,130.0,0.331,78,246,0,35 km SE,"Akutan, Alaska",shallow,50.0,0,PNSN-07,9,0.3
+us6000m113,4.6,10,136.6924,37.2247,0,0.0,0.0,none,62.0,1.389,76,326,0,18 km W,"Anamizu, Japan",shallow,57.5,0,PNSN-07,5,0.42
+us6000m110,4.5,10,136.6184,37.0652,0,0.0,0.0,none,57.0,1.374,103,312,0,24 km NW,"Hakui, Japan",shallow,56.25,0,PNSN-07,0,0.4
+us6000m10t,4.0,27.415,122.4283,23.9953,0,0.0,0.0,none,80.0,0.71,53,246,0,78 km SW,"Yonakuni, Japan",shallow,50.0,0,CEA-12,14,0.3
+us6000m10q,4.4,10,136.7825,37.121,0,0.0,0.0,none,64.0,1.277,40,298,0,16 km SW,"Anamizu, Japan",shallow,55.0,0,UNLINKED,0,0.38
+us6000m34w,4.4,10,-173.5891,-14.9334,0,0.0,0.0,none,110.0,2.025,23,298,0,115 km N,"Hihifo, Tonga",shallow,55.0,0,PNSN-07,9,0.38
+ak0241yap5t,3.4,5.5,-144.1662,69.4568,0,0.0,3.605,none,103.0,1.382,31,178,0,78 km SSW,"Kaktovik, Alaska",shallow,42.5,0,PNSN-07,0,0.18
+us6000m10k,4.2,10,136.851,37.211,0,0.0,0.0,none,68.0,1.272,33,271,0,5 km WSW,"Anamizu, Japan",shallow,52.5,0,SCEDC-01,5,0.34
+us6000m10e,4.6,10,137.4761,37.5711,0,0.0,0.0,none,95.0,0.776,103,326,0,63 km NE,"Anamizu, Japan",shallow,57.5,0,USGS-WEST,11,0.42
+ci40453591,4.06,11.44,-118.3703333,33.5798333,5636,4.1,3.403,green,116.0,0.147,138,664,1,18 km S,"Rancho Palos Verdes, CA",shallow,50.75,0,CEA-12,6,0.312
+us6000m4xd,2.5,35,-166.7012,53.2726,0,0.0,0.0,none,229.0,0.532,13,96,0,67 km S,"Unalaska, Alaska",shallow,31.25,0,SCEDC-01,11,0.0
+us6000m10a,4.1,10,137.7114,37.584,0,0.0,0.0,none,106.0,0.628,23,259,0,62 km NNW,"Itoigawa, Japan",shallow,51.25,0,USGS-WEST,0,0.32
+ak0241wkabx,2.9,11.2,-144.7557,69.1183,0,0.0,0.0,none,103.0,1.382,31,129,0,115 km NNE,"Arctic Village, Alaska",shallow,36.25,0,PNSN-07,0,0.08
+us6000m101,4.4,10,137.3899,37.4953,0,0.0,0.0,none,92.0,0.876,49,298,0,52 km ENE,"Anamizu, Japan",shallow,55.0,0,SCEDC-01,10,0.38
+us6000m34q,4.2,53.468,127.3061,4.7027,0,0.0,0.0,none,134.0,2.912,21,271,0,218 km ESE,"Sarangani, Philippines",shallow,52.5,0,PNSN-07,5,0.34
+uu80033811,2.57,8.51,-110.753833333333,44.5826666666667,0,0.0,0.0,none,79.0,0.08225,23,102,0,29 km ESE,"West Yellowstone, Montana",shallow,32.12,0,CEA-12,13,0.014
+uu80033801,3.14,8.87,-110.751166666667,44.5895,3,2.2,0.0,none,72.0,0.07876,27,152,0,29 km ESE,"West Yellowstone, Montana",shallow,39.25,0,PNSN-07,15,0.128
+uu80033781,2.5,10.02,-110.7505,44.5861666666667,0,0.0,0.0,none,64.0,0.07904,20,96,0,29 km ESE,"West Yellowstone, Montana",shallow,31.25,0,CEA-12,15,0.0
+us6000m0zr,4.4,10,137.4129,37.4903,0,0.0,0.0,none,89.0,0.865,52,298,0,53 km ENE,"Anamizu, Japan",shallow,55.0,0,USGS-WEST,11,0.38
+us6000m34m,4.7,10,62.8497,-28.3121,0,0.0,0.0,none,59.0,8.531,54,340,0,Direct Location,Southwest Indian Ridge,shallow,58.75,0,PNSN-07,11,0.44
+us6000m0zl,4.1,10,137.5602,37.7315,0,0.0,0.0,none,95.0,0.632,78,259,0,77 km WSW,"Sado, Japan",shallow,51.25,0,USGS-WEST,12,0.32
+us6000m34l,4.6,35,166.8954,-15.0526,0,0.0,0.0,none,142.0,6.006,21,326,0,19 km W,"Port-Olry, Vanuatu",shallow,57.5,0,PNSN-07,7,0.42
+us6000m0zk,4.5,10,107.7514,-6.6246,6,5.4,0.0,none,86.0,0.839,31,315,0,25 km NE,"Lembang, Indonesia",shallow,56.25,0,PNSN-07,2,0.4
+nc73983786,2.83,1.79,-122.8143333,38.831,2,2.2,0.0,none,22.0,0.008291,100,124,0,8 km NW,"The Geysers, CA",shallow,35.38,0,PNSN-07,10,0.066
+us6000m0zf,4.5,10,137.1399,37.3826,0,0.0,0.0,none,80.0,1.103,76,312,0,26 km NE,"Anamizu, Japan",shallow,56.25,0,CEA-12,8,0.4
+us6000m34j,4.3,10,136.9525,37.2699,0,0.0,0.0,none,72.0,1.236,41,284,0,6 km NE,"Anamizu, Japan",shallow,53.75,0,CEA-12,0,0.36
+us6000m0zj,4.3,10,136.6582,37.1278,0,0.0,0.0,none,60.0,1.37,38,284,0,24 km WSW,"Anamizu, Japan",shallow,53.75,0,USGS-WEST,2,0.36
+us6000m0z9,4.4,10,137.6781,37.618,0,0.0,0.0,none,106.0,0.623,39,298,0,66 km NNW,"Itoigawa, Japan",shallow,55.0,0,PNSN-07,6,0.38
+us6000m0z5,4.2,10,137.373,37.4904,0,0.0,0.0,none,92.0,0.89,38,271,0,50 km NE,"Anamizu, Japan",shallow,52.5,0,PNSN-07,10,0.34
+us6000m0z3,4.6,10,136.6946,37.1664,1,2.2,0.0,none,62.0,1.36,70,326,0,19 km WSW,"Anamizu, Japan",shallow,57.5,0,SCEDC-01,10,0.42
+us6000m34a,4.3,6.867,136.9721,37.3111,0,0.0,0.0,none,73.0,1.248,36,284,0,10 km NE,"Anamizu, Japan",shallow,53.75,0,PNSN-07,0,0.36
+us6000m56m,3.0,10,-174.6415,50.3525,0,0.0,0.0,none,286.0,1.825,16,138,0,207 km S,"Atka, Alaska",shallow,37.5,0,CEA-12,15,0.1
+us6000m0yy,4.1,10,137.5146,37.6531,0,0.0,0.0,none,96.0,0.703,29,259,0,71 km NE,"Anamizu, Japan",shallow,51.25,0,PNSN-07,2,0.32
+pr2024001002,3.55,80,-64.4698,18.3181,0,0.0,0.0,none,292.0,0.4879,11,194,0,34 km E,"Cruz Bay, U.S. Virgin Islands",intermediate,44.38,0,SCEDC-01,10,0.21
+us6000m0yw,4.7,10,137.2865,37.5375,0,0.0,0.0,none,86.0,0.918,54,340,0,48 km NE,"Anamizu, Japan",shallow,58.75,0,PNSN-07,9,0.44
+us6000m346,4.2,10,137.1951,37.45,0,0.0,0.0,none,83.0,1.027,39,271,0,35 km NE,"Anamizu, Japan",shallow,52.5,0,PNSN-07,4,0.34
+hv73706337,2.55,6.76,-155.122,19.3323333333333,0,0.0,0.0,none,119.0,1.382,34,100,0,14 km S,"Fern Forest, Hawaii",shallow,31.87,0,CEA-12,5,0.01
+us6000m0yr,4.6,10,137.6625,37.8468,0,0.0,0.0,none,93.0,0.508,49,326,0,64 km WSW,"Sado, Japan",shallow,57.5,0,USGS-WEST,10,0.42
+us6000m343,4.3,10,136.9994,37.3871,0,0.0,0.0,none,74.0,1.192,28,284,0,19 km NNE,"Anamizu, Japan",shallow,53.75,0,UNLINKED,0,0.36
+us6000m0yh,4.6,10,137.3728,37.5516,0,0.0,0.0,none,91.0,0.854,68,326,0,54 km NE,"Anamizu, Japan",shallow,57.5,0,UNLINKED,0,0.42
+us6000m0yg,5.1,10,137.5664,37.8107,0,0.0,0.0,none,90.0,0.592,65,400,0,73 km WSW,"Sado, Japan",shallow,63.75,1,PNSN-07,8,0.52
+us6000m0yf,5.0,10,136.6562,37.1479,0,0.0,0.0,none,60.0,1.379,100,385,0,23 km WSW,"Anamizu, Japan",shallow,62.5,1,UNLINKED,0,0.5
+us6000m0ye,5.2,10,137.3585,37.4998,0,0.0,0.0,none,86.0,0.893,123,416,0,50 km NE,"Anamizu, Japan",shallow,65.0,1,PNSN-07,1,0.54
+us6000m345,4.1,10.092,137.3241,37.553,0,0.0,0.0,none,88.0,0.885,28,259,0,51 km NE,"Anamizu, Japan",shallow,51.25,0,PNSN-07,0,0.32
+us6000m0yc,4.4,10,137.3328,37.52,0,0.0,0.0,none,89.0,0.898,43,298,0,49 km NE,"Anamizu, Japan",shallow,55.0,0,USGS-WEST,5,0.38
+us6000m342,4.2,9.917,137.3198,37.4507,0,0.0,0.0,none,90.0,0.948,34,271,0,44 km ENE,"Anamizu, Japan",shallow,52.5,0,PNSN-07,15,0.34
+us6000m0ya,5.6,10,137.4029,37.5146,0,0.0,6.677,green,50.0,0.856,146,482,0,54 km NE,"Anamizu, Japan",shallow,70.0,1,CEA-12,1,0.62
+us6000m35b,4.6,10,137.4557,37.4672,0,0.0,0.0,none,98.0,0.855,32,326,0,55 km ENE,"Anamizu, Japan",shallow,57.5,0,SCEDC-01,0,0.42
+us6000m0y9,5.5,10,137.4185,37.5339,1,6.1,6.348,green,43.0,0.835,130,466,0,56 km NE,"Anamizu, Japan",shallow,68.75,1,SCEDC-01,1,0.6
+us6000m34d,4.1,10,137.7118,37.3695,0,0.0,0.0,none,117.0,0.797,19,259,0,39 km NNW,"Itoigawa, Japan",shallow,51.25,0,PNSN-07,4,0.32
+us6000m0y4,4.5,35,-89.0159,12.4653,0,0.0,0.0,none,171.0,1.205,98,312,0,103 km SSW,"Puerto El Triunfo, El Salvador",shallow,56.25,0,CEA-12,11,0.4
+us6000m0y7,4.5,10,137.5542,37.8651,0,0.0,0.0,none,85.0,0.582,58,312,0,72 km WSW,"Sado, Japan",shallow,56.25,0,USGS-WEST,9,0.4
+us6000m341,4.6,10,137.6044,37.6483,0,0.0,0.0,none,112.0,0.648,33,326,0,71 km NNW,"Itoigawa, Japan",shallow,57.5,0,CEA-12,14,0.42
+tx2024aara,3.1,7.0313,-104.505,31.617,0,0.0,0.0,none,76.0,0.1,34,148,0,63 km S,"Whites City, New Mexico",shallow,38.75,0,UNLINKED,0,0.12
+pr2024001001,2.84,12,-66.2663,17.9386,0,1.0,0.0,none,179.0,0.1617,12,124,0,4 km WSW,"Central Aguirre, Puerto Rico",shallow,35.5,0,SCEDC-01,12,0.068
+us6000m0y0,4.2,208.301,-67.3309,-24.2794,0,0.0,0.0,none,89.0,1.533,24,271,0,103 km W,"San Antonio de los Cobres, Argentina",intermediate,52.5,0,CEA-12,7,0.34
+us6000m0y1,4.7,10,137.5274,37.5787,0,0.0,0.0,none,100.0,0.739,97,340,0,66 km NNW,"Itoigawa, Japan",shallow,58.75,0,SCEDC-01,9,0.44
+us6000m0xy,4.9,10,137.2239,37.4631,0,0.0,0.0,none,84.0,1.001,122,369,0,38 km NE,"Anamizu, Japan",shallow,61.25,0,PNSN-07,12,0.48
+us6000m34k,4.3,10.682,137.6196,37.5869,0,0.0,0.0,none,107.0,0.678,25,284,0,64 km NNW,"Itoigawa, Japan",shallow,53.75,0,PNSN-07,13,0.36
+us6000m0xx,4.8,10,137.2009,37.5012,0,0.0,0.0,none,82.0,0.995,89,354,0,39 km NE,"Anamizu, Japan",shallow,60.0,0,PNSN-07,3,0.46
+us6000m33y,4.5,9.216,137.3097,37.5918,0,0.0,0.0,none,120.0,0.874,28,312,0,53 km NE,"Anamizu, Japan",shallow,56.25,0,UNLINKED,0,0.4
+us6000m33z,4.3,6.199,137.7868,37.85,0,0.0,0.0,none,113.0,0.417,29,284,0,53 km WSW,"Sado, Japan",shallow,53.75,0,PNSN-07,8,0.36
+us6000m0xw,5.1,10,136.6149,37.1718,0,0.0,0.0,none,59.0,1.419,133,400,0,26 km WSW,"Anamizu, Japan",shallow,63.75,1,CEA-12,2,0.52
+us6000m0xu,5.0,10,137.401,37.5444,0,0.0,0.0,none,92.0,0.84,104,385,0,56 km NE,"Anamizu, Japan",shallow,62.5,1,PNSN-07,0,0.5
+us6000m33s,4.5,10,145.0047,20.6354,0,0.0,0.0,none,128.0,5.417,21,312,0,Direct Location,"Maug Islands region, Northern Mariana Islands",shallow,56.25,0,SCEDC-01,14,0.4
+us6000m0xt,5.6,10,136.8875,37.2997,0,0.0,6.756,green,67.0,1.296,148,482,0,7 km N,"Anamizu, Japan",shallow,70.0,1,CEA-12,10,0.62
+us6000m33x,4.4,10,137.708,37.4132,0,0.0,0.0,none,180.0,0.762,16,298,0,44 km NNW,"Itoigawa, Japan",shallow,55.0,0,CEA-12,0,0.38
+us6000m33m,4.7,8.243,137.5518,37.6242,0,0.0,0.0,none,100.0,0.696,30,340,0,70 km NNW,"Itoigawa, Japan",shallow,58.75,0,SCEDC-01,11,0.44
+us6000m33w,4.3,8.826,137.8121,37.6769,0,0.0,0.0,none,120.0,0.505,16,284,0,61 km SW,"Sado, Japan",shallow,53.75,0,CEA-12,7,0.36
+us6000m0xq,5.3,81.212,123.6177,-0.1092,0,0.0,4.035,green,42.0,1.254,52,432,0,94 km SE,"Gorontalo, Indonesia",intermediate,66.25,1,UNLINKED,0,0.56
+us6000m0xp,4.8,10,136.8374,37.2779,0,0.0,0.0,none,69.0,1.317,87,354,0,7 km NW,"Anamizu, Japan",shallow,60.0,0,CEA-12,0,0.46
+us6000m33u,4.7,4.785,137.7515,37.7823,0,0.0,0.0,none,106.0,0.476,41,340,0,59 km WSW,"Sado, Japan",shallow,58.75,0,USGS-WEST,2,0.44
+us6000m33v,4.8,9.896,137.2483,37.4693,0,0.0,0.0,none,95.0,0.982,26,354,0,40 km NE,"Anamizu, Japan",shallow,60.0,0,PNSN-07,13,0.46
+us6000m0xn,5.2,10,137.4519,37.4861,0,1.0,0.0,none,92.0,0.844,151,416,0,56 km ENE,"Anamizu, Japan",shallow,65.0,1,CEA-12,0,0.54
+us6000m33p,4.3,11.282,137.7775,37.6244,0,0.0,0.0,none,119.0,0.563,29,284,0,65 km N,"Itoigawa, Japan",shallow,53.75,0,PNSN-07,3,0.36
+us6000m34f,4.4,13.909,137.0978,37.3707,0,0.0,0.0,none,79.0,1.137,25,298,0,23 km NE,"Anamizu, Japan",shallow,55.0,0,USGS-WEST,0,0.38
+us6000m33n,4.2,10,137.573,37.6053,0,0.0,0.0,none,103.0,0.694,24,271,0,68 km NNW,"Itoigawa, Japan",shallow,52.5,0,USGS-WEST,9,0.34
+us6000m56i,3.3,10,-177.0618,50.5962,0,0.0,0.0,none,230.0,1.172,36,168,0,145 km SSW,"Adak, Alaska",shallow,41.25,0,PNSN-07,14,0.16
+us6000m34h,4.7,10.997,137.2642,37.4638,0,0.0,0.0,none,86.0,0.975,28,340,0,41 km NE,"Anamizu, Japan",shallow,58.75,0,USGS-WEST,0,0.44
+us6000m33l,4.6,10,136.8046,37.3496,0,0.0,0.0,none,66.0,1.343,34,326,0,15 km NNW,"Anamizu, Japan",shallow,57.5,0,CEA-12,12,0.42
+us6000m33q,4.2,166.808,147.0332,44.6082,0,0.0,0.0,none,146.0,3.222,26,271,0,93 km NNE,"Shikotan, Russia",intermediate,52.5,0,CEA-12,4,0.34
+us6000m34g,4.6,10,137.2254,37.3802,0,0.0,0.0,none,84.0,1.05,32,326,0,33 km ENE,"Anamizu, Japan",shallow,57.5,0,SCEDC-01,0,0.42
+us6000m0xm,6.2,10,136.8272,37.1895,9,8.7,7.001,green,32.0,1.278,185,599,0,8 km SW,"Anamizu, Japan",shallow,77.5,1,PNSN-07,0,0.74
+us6000m0xl,7.5,10,137.271,37.4874,421,8.9,8.793,red,36.0,0.957,282,2375,1,Direct Location,"2024 Noto Peninsula, Japan Earthquake",shallow,93.75,1,UNLINKED,0,1.0
+us6000m0xj,5.8,10,137.2491,37.4933,1,4.3,6.925,green,53.0,0.968,279,518,0,42 km NE,"Anamizu, Japan",shallow,72.5,1,CEA-12,12,0.66
+nc73983666,2.81,5.52,-120.8905,35.3088333,335,3.8,0.0,none,152.0,0.04807,52,249,0,5 km W,"Baywood-Los Osos, CA",shallow,35.12,0,CEA-12,11,0.062
+us6000m0x9,4.7,10,117.8591,-7.8936,0,0.0,0.0,none,61.0,0.931,55,340,0,70 km NE,"Pototano, Indonesia",shallow,58.75,0,PNSN-07,15,0.44
+us6000m0x8,4.5,540.187,-179.8743,-23.3645,0,0.0,0.0,none,99.0,4.846,74,312,0,south,the Fiji Islands,deep,56.25,0,PNSN-07,5,0.4
+us6000m33r,4.4,121.933,167.4895,-15.0626,0,0.0,0.0,none,81.0,6.252,29,298,0,44 km E,"Port-Olry, Vanuatu",intermediate,55.0,0,UNLINKED,0,0.38
+ak0241q80m4,2.8,86.5,-151.2719,62.5718,0,0.0,0.0,none,103.0,1.382,31,121,0,27 km WNW,"Petersville, Alaska",intermediate,35.0,0,USGS-WEST,5,0.06
+us6000m0x6,4.5,35,149.243,44.4338,0,0.0,0.0,none,135.0,4.786,79,312,0,139 km SE,"Kuril’sk, Russia",shallow,56.25,0,PNSN-07,0,0.4
+us6000m33k,4.1,10,127.4797,8.9147,0,0.0,0.0,none,129.0,2.627,19,259,0,128 km E,"Aras-asan, Philippines",shallow,51.25,0,UNLINKED,0,0.32
+tx2024aahh,3.0,3.384,-97.441,29.335,1,2.2,0.0,none,77.0,0.1,20,139,0,18 km S,"Gonzales, Texas",shallow,37.5,0,USGS-WEST,2,0.1
+us6000m0wp,4.4,35,-88.9548,12.4954,0,0.0,0.0,none,178.0,1.147,31,298,0,97 km SSW,"Puerto El Triunfo, El Salvador",shallow,55.0,0,PNSN-07,0,0.38
+us6000m0wm,4.5,10,17.4987,76.065,0,0.0,0.0,none,63.0,2.14,69,312,0,245 km S,"Longyearbyen, Svalbard and Jan Mayen",shallow,56.25,0,UNLINKED,0,0.4
+us6000m356,4.2,87.814,129.5277,-7.2109,0,0.0,0.0,none,122.0,5.052,16,271,0,Direct Location,"Kepulauan Babar, Indonesia",intermediate,52.5,0,PNSN-07,12,0.34
+ak0241p0cnv,3.6,42.9,-155.0311,57.1044,0,1.0,2.288,none,103.0,1.382,31,199,0,55 km WNW,"Akhiok, Alaska",shallow,45.0,0,PNSN-07,0,0.22
+us6000m0wg,4.4,117.22,-68.6888,-21.2187,0,0.0,0.0,none,42.0,0.766,47,298,0,45 km W,"Ollagüe, Chile",intermediate,55.0,0,CEA-12,1,0.38
+us6000m0wc,4.6,513.317,179.8704,-24.412,0,0.0,0.0,none,31.0,5.199,89,326,0,south,the Fiji Islands,deep,57.5,0,PNSN-07,0,0.42
+us6000m0wa,4.3,35,-70.5175,-25.3436,0,0.0,0.0,none,178.0,0.804,19,284,0,7 km NNW,"Taltal, Chile",shallow,53.75,0,PNSN-07,13,0.36
+us6000m0wb,4.1,178.051,107.1224,-6.8599,0,0.0,0.0,none,97.0,0.49,43,259,0,4 km SSW,"Cianjur, Indonesia",intermediate,51.25,0,SCEDC-01,2,0.32
+us6000m357,4.4,55.881,-25.8967,-57.3045,0,0.0,0.0,none,107.0,6.694,18,298,0,Direct Location,South Sandwich Islands region,shallow,55.0,0,USGS-WEST,2,0.38
+us6000m0w6,4.7,384.941,145.4596,17.6625,0,0.0,0.0,none,36.0,2.429,198,340,0,272 km N,"Saipan, Northern Mariana Islands",deep,58.75,0,CEA-12,11,0.44
+pr71435948,3.22,105.15,-66.427,18.4086666666667,0,0.0,0.0,none,190.0,0.3187,11,160,0,2 km SSE,"Coto Norte, Puerto Rico",intermediate,40.25,0,PNSN-07,5,0.144
